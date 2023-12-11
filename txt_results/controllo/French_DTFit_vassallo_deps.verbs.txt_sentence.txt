@@ -1,0 +1,798 @@
+L' acteur a gagné la bataille.
+L' acteur a remporté le prix.
+L' anchorman a raconté la parabole.
+L' anchorman a raconté les nouvelles.
+L' animal a trouvé la carte.
+L' animal a trouvé la nourriture.
+La fourmi a empilé la valise.
+La fourmi a empilé les fournitures.
+L' archéologue a examiné le chien.
+L' archéologue a examiné l' épigraphe.
+L' archer a publié l' interview.
+Le tireur d' arc a lâché la flèche.
+L' artiste a monté la tente.
+L' artiste a assemblé l' art.
+L' artiste a accroché la moto.
+L' artiste a accroché la photo.
+L' assistant a aidé le soldat.
+L' assistante a aidé le cuisinier.
+L' astronaute a contacté le boulanger.
+L' astronaute est arrivé sur la Lune.
+L' astronaute a touché la guitare.
+L' astronaute a touché le sol.
+L' athlète a célébré le mariage.
+L' athlète a célébré la victoire.
+L' athlète a commencé le vide.
+L' athlète a commencé le match.
+L' athlète a gagné le jouet.
+L' athlète a gagné la coupe.
+L' auteur a signé le chèque.
+L' auteur a signé le livre.
+Le boulanger a rassemblé le soldat.
+Le boulanger a rassemblé le pain.
+Le boulanger a vendu la poussette.
+Le boulanger a vendu le pain.
+La banque a assigné le livre.
+La banque a assigné le code.
+Le barbier a coupé le gâteau.
+Le coiffeur a coupé les cheveux.
+Le barbier a utilisé le microscope.
+Le barbier a utilisé le rasoir.
+Le barman a remis la lance.
+Le barman a remis le verre.
+Le barman a secoué le drapeau.
+Le barman a secoué la boisson.
+La beauté a répandu la peinture.
+La cosmétique a répandu la crème.
+Le motard a commencé la leçon.
+Le motard a démarré la moto.
+Le motard portait un maillot de bain.
+Le motard portait le casque.
+Le milliardaire a fait don du livre.
+Le milliardaire a donné l' argent.
+Le décheteur a récupéré la fleur.
+Le déchargeur a rassemblé les ordures.
+Le biologiste a utilisé le rasoir.
+Le biologiste a utilisé le microscope.
+Le forgeron a versé le vin.
+Le fermier a versé le métal.
+Le bodybuilder a levé le drapeau.
+Le bodybuilder a levé le poids.
+Le patron a attribué la médaille.
+Le patron a assigné le travail.
+Le patron a promis le paradis.
+Le patron a promis une promotion.
+Le botaniste a examiné le pneu.
+Le botaniste a examiné la plante.
+Le boxeur a livré la boisson.
+Le boxeur a donné le coup.
+L' éleveur a vendu la cigarette.
+L' éleveur a vendu le chien.
+Le voleur a grimpé le rocher.
+Le voleur est monté sur le mur.
+L' homme d' affaires a lu la fable.
+L' homme d' affaires a lu le rapport.
+L' homme d' affaires a lié le prisonnier.
+L' homme d' affaires a attaché la cravate.
+L' homme d' affaires portait l' uniforme.
+L' homme d' affaires portait la cravate.
+Le boucher a sculpté la pierre.
+Le boucher a taillé la viande.
+Le boucher a coupé l' arbre.
+Le boucher a coupé la viande.
+Le boucher a vendu l' arme.
+Le boucher a vendu la viande.
+Le boucher a utilisé la caméra.
+Le boucher a utilisé le couteau.
+Le caméraman a enregistré la vente.
+Le caméraman a enregistré la vidéo.
+Le candidat a fêté la fête.
+Le candidat a célébré la victoire.
+Le charpentier a réparé la chaussure.
+Le charpentier a réparé la chaise.
+Le charpentier a tourné les cheveux.
+Le charpentier a renversé la planche.
+Le charpentier a saisi la balle.
+Le charpentier a pris la planche.
+Le sculpteur a construit la maison.
+Le sculpteur a construit la sculpture.
+Le chat a poursuivi le cerf-volant.
+Le chat a poursuivi l' oiseau.
+Le chat a bu le café.
+Le chat a bu le lait.
+Le champion tenait la guitare.
+Le champion tenait la coupe.
+Le chauffeur portait le fusil.
+Le chauffeur a transporté le passager.
+La claque portait le fusil.
+La claque portait le drapeau.
+La pom-pom-pom a fait le sort.
+La pom-pom-pom a joué la danse.
+La claque a secoué la boisson.
+La claque a secoué le drapeau.
+Le chimiste a mélangé la musique.
+Le chimiste a mélangé la substance.
+Le chimiste a versé le jus.
+Le chimiste a versé le composé.
+Le chimiste a vendu le chien.
+Le chimiste a vendu la drogue.
+L' enfant a mangé l' os.
+L' enfant a mangé les bonbons.
+L' enfant a construit la sculpture.
+L' enfant a construit le snowman.
+L' enfant a célébré la victoire.
+L' enfant a fêté son anniversaire.
+L' enfant a poursuivi le voleur.
+L' enfant a poursuivi le jouet.
+L' enfant a grimpé la montagne.
+L' enfant est monté sur l' arbre.
+L' enfant a traversé la rivière.
+L' enfant a traversé le parc.
+L' enfant a coupé l' arbre.
+L' enfant a coupé le papier.
+L' enfant a bu la bière.
+L' enfant a bu la cocaïne.
+L' enfant a dessiné le cheval.
+L' enfant a dessiné la fleur.
+L' enfant a apprécié la conférence.
+L' enfant a apprécié le trajet.
+L' enfant a trouvé le corps.
+L' enfant a trouvé la poupée.
+L' enfant a pris le pneu.
+L' enfant a pris le frisbee.
+L' enfant a prêté la voiture.
+L' enfant a prêté le stylo.
+L' enfant a ouvert le congrès.
+L' enfant a ouvert le cadeau.
+L' enfant a choisi l' investissement.
+L' enfant a pris la fleur.
+L' enfant est monté sur le taureau.
+L' enfant est monté dans le bus.
+L' enfant a jeté la bouteille.
+L' enfant a lancé la balle.
+L' enfant a jeté la lance.
+L' enfant a lancé la boule de neige.
+L' enfant a prononcé le verdict.
+L' enfant a menti.
+L' enfant a rendu visite au président.
+L' enfant est allé voir sa grand-mère.
+L' enfant a rendu visite au prisonnier.
+L' enfant est allé au zoo.
+L' enfant a écrit le diagnostic.
+L' enfant a écrit la conjugaison.
+L' escalier est monté par l' escalier.
+L' alpiniste a grimpé le rocher.
+L' alpiniste était face à l' océan.
+L' alpiniste était face au mur.
+L' alpiniste a utilisé le tableau.
+L' alpiniste a utilisé la corde.
+L' autocar a vérifié la voiture.
+L' entraîneur a vérifié l' équipe.
+Le chaussetteur a réparé le téléphone.
+Le chaussurier a réparé la chaussure.
+Le chaussetteur a cousu le parachute.
+Le chaussurier a cousu la chaussure.
+Le collectionneur a donné le sang.
+Le collectionneur a fait un don de la peinture.
+Le comédien a amusé le soldat.
+Le comédien a amusé le public.
+La confiserie a décoré l' arbre.
+La confiserie a décoré le gâteau.
+La confiserie a répandu le ciment.
+La confiserie a déposé la glace.
+Le cuisinier a acheté le billet.
+Le cuisinier a acheté la nourriture.
+Le cuisinier a vérifié le pneu.
+Le cuisinier a vérifié les courses.
+La cuisinière a nettoyé la fenêtre.
+La cuisinière a nettoyé le poisson.
+Le cuisinier coupe l' herbe.
+Le cuisinier a coupé le poisson.
+La cuisinière a tourné les cheveux.
+Le cuisinier a tourné le pancake.
+La cuisinière a mélangé la peinture.
+Le cuisinier a mélangé l' ingrédient.
+Le cow-boy a apprécié la collation.
+Le cow-boy a apprécié le trajet.
+Le cow-boy était à vélo.
+Le cow-boy a monté le taureau.
+L' équipage a chargé la poussette.
+L' équipage a chargé le conteneur.
+Le client a lu la musique.
+Le client a lu le menu.
+Le cycliste a terminé le projet.
+Le cycliste a terminé la course.
+Le cycliste a réparé les cheveux.
+Le cycliste a réparé la moto.
+Le cycliste a fait du patinage.
+Le cycliste était à vélo.
+Le croupier a vérifié le net.
+Le croupier a vérifié la voiture.
+Le croupier a examiné l' usine.
+Le concessionnaire a examiné la voiture.
+Le marchand a vendu la viande.
+Le concessionnaire a vendu la voiture.
+Le DJ a mélangé l' ingrédient.
+Le DJ a mélangé la musique.
+Le démonstrateur a porté la balle.
+Le démonstrateur portait le drapeau.
+Le démonstrateur a signé le t-shirt.
+Le manifestant a signé la pétition.
+Le démonstrateur a jeté le frisbee.
+Le démonstrateur a jeté la pierre.
+Le diplomate a porté le chien.
+Le diplomate a porté le message.
+Le docteur a aidé la cuisinière.
+Le docteur a aidé la femme.
+Le docteur a offert le petit déjeuner.
+Le docteur a offert le soutien.
+Le docteur a cousu la chaussure.
+Le docteur a cousu la plaie.
+Le docteur a utilisé la pelle.
+Le docteur a utilisé le stéthoscope.
+Le docteur est allé au musée.
+Le médecin a rendu visite au patient.
+Le docteur a écrit la conjugaison.
+Le médecin a écrit le diagnostic.
+Le chien a mangé la plante.
+Le chien a mangé l' os.
+Le chien portait le drapeau.
+Le chien a porté la balle.
+Le chien a attrapé la vague.
+Le chien a attrapé la balle.
+Le chien a poursuivi le réservoir.
+Le chien a poursuivi la balle.
+Le chien a creusé la tombe.
+Le chien a creusé le trou.
+Le chien a ramené le plateau.
+Le chien a ramené la balle.
+Le chien a tiré sur la gâchette.
+Le chien a tiré le traîneau.
+Le chauffeur a entendu le bébé.
+Le conducteur a entendu la trompette.
+L' électricien a vérifié le fusil.
+L' électricien a vérifié l' appareil.
+L' employé a passé le fusil.
+L' employé a passé le rapport.
+L' employeur a offert les bonbons.
+L' employeur a offert le travail.
+L' ingénieur a terminé la peinture.
+L' ingénieur a terminé le projet.
+L' ingénieur a dessiné la fleur.
+L' ingénieur a dessiné la turbine.
+Le fermier a choisi le tueur.
+Le fermier a ramassé les légumes.
+Le fermier a labouré le sable.
+Le fermier a labouré le champ.
+Le fermier a vendu la drogue.
+Le fermier a vendu le maïs.
+Le fermier a pulvérisé la crème.
+Le fermier a pulvérisé le pesticide.
+Le fermier a utilisé l' ordinateur.
+Le fermier a utilisé la pelle.
+Le combattant a jeté un coup à la télé.
+Le combattant a donné un coup de pied à l' adversaire.
+Le pompier a combattu le crime.
+Le pompier a combattu l' incendie.
+Le pêcheur a attrapé la balle.
+Le pêcheur a attrapé le poisson.
+Le pêcheur a vérifié la voiture.
+Le pêcheur a vérifié le filet.
+Le pêcheur a vendu la drogue.
+Le pêcheur a vendu le poisson.
+Le fleuriste a vendu le vélo.
+Le fleuriste a vendu la fleur.
+Le footballeur a poursuivi le jouet.
+Le footballeur a poursuivi le ballon.
+Le footballeur a donné la conférence.
+Le footballeur a donné le coup de pied.
+Le footballeur a heurté la voiture.
+Le footballeur a frappé le ballon.
+Le footballeur a donné un coup de pied au vase.
+Le footballeur a donné un coup de pied.
+Le footballeur a passé le couteau.
+Le footballeur a passé le ballon.
+Le jardinier a coupé le poisson.
+Le jardinier coupe l' herbe.
+Le jardinier a décoré le livre.
+Le jardinier a décoré le jardin.
+Le jardinier a rassemblé le drapeau.
+Le jardinier a rassemblé l' herbe.
+Le jardinier a poussé le démonstrateur.
+Le jardinier a poussé la tondeuse.
+Le général a rassemblé le pain.
+Le général a rassemblé le soldat.
+Le général a envoyé la carte postale.
+Le général a envoyé le soldat.
+Le général a gagné le jouet.
+Le général a gagné la bataille.
+Le gardien a attrapé le poisson.
+Le gardien a attrapé le ballon.
+Le gardien a pris le téléphone.
+Le gardien a saisi le ballon.
+Le gardien a tenu l' enfant.
+Le gardien a tenu le ballon.
+Le gardien a jeté la bombe.
+Le gardien a lancé le ballon.
+Le gouvernement a offert la boisson.
+Le gouvernement a offert la protection.
+Le grand-père a dit la stratégie.
+Le grand-père a raconté l' histoire.
+Le garde a ouvert le cadeau.
+Le gardien a ouvert la prison.
+Le gardien a fait le rôti.
+Le gardien a attaché le prisonnier.
+L' invité tenait la caméra.
+L' invité a tenu la boisson.
+L' invité a accroché la lavéa.
+L' invité a accroché le manteau.
+Le guide a décrit le logiciel.
+Le guide a décrit le monument.
+La coiffeuse a réparé le vélo.
+La coiffeuse a réparé les cheveux.
+La coiffeuse a renversé le tableau.
+La coiffeuse a détourné les cheveux.
+Le coiffeur a pulvérisé le pesticide.
+La coiffeuse a pulvérisé la mousse.
+La coiffeuse a lavé le bébé.
+La coiffeuse a lavé les cheveux.
+Le randonneur a regardé la caméra.
+Le randonneur était face à la montagne.
+Le cheval a tiré la remorque.
+Le cheval a tiré la voiture.
+Le cheval a déplacé la valise.
+Le cheval a déplacé le char.
+Le cheval a tiré la valise.
+Le cheval a tiré le char.
+L' hôtesse a expliqué le poème.
+L' hôtesse a expliqué la procédure.
+Le chien a ramené l' argent.
+Le chien a ramené l' oiseau.
+La femme de ménage a nettoyé le poisson.
+La femme de ménage a nettoyé la vaisselle.
+La femme de ménage a nettoyé la rue.
+La femme de ménage a nettoyé la fenêtre.
+La femme de ménage a nettoyé les casernes.
+La femme de ménage a nettoyé le sol.
+La femme de ménage a lavé le bateau.
+La femme de ménage a lavé le sol.
+La femme au foyer a nettoyé la chaussure.
+La femme au foyer a nettoyé la table.
+L' illusionniste a opéré.
+L' illusionniste a fait le tour.
+L' illustrateur a décoré le jardin.
+L' illustrateur a décoré le livre.
+L' illustrateur a dessiné la voiture.
+L' illustrateur a dessiné la photo.
+L' investisseur a loué le vélo.
+L' investisseur a loué le terrain.
+Le jockey a fait la course.
+Le jockey était à cheval.
+Le journaliste portait le lait.
+Le journaliste a porté l' article.
+Le journaliste a écrit la chanson.
+Le journaliste a écrit l' article.
+Le tueur a tiré du char.
+Le tueur a tiré sur la gâchette.
+Le chevalier tenait la caméra.
+Le chevalier tenait l' épée.
+Le bibliothécaire est monté sur l' arbre.
+Le bibliothécaire est monté sur l' échelle.
+Le bibliothécaire a mis les fournitures.
+Le bibliothécaire a empilé le livre.
+Le bûcheron a coupé la viande.
+Le bûcheron a coupé l' arbre.
+Le bûcheron a empilé le livre.
+Le bûcheron a empilé le bois.
+Le bûcheron a utilisé la lance.
+Le bûcheron a utilisé la scie.
+Le magicien lisait le journal.
+Le magicien lisait la main.
+Le directeur a loué le kayak.
+Le directeur a loué la chambre.
+Le maçon a construit le Homme de Neige.
+Le maçon a construit la maison.
+Le maçon a réparé le vélo.
+Le maçon a réparé le toit.
+Le maçon a réparé le pneu.
+Le maçon a réparé le mur.
+Le maçon a mélangé la soupe.
+Le maçon a mélangé le ciment.
+Le mécanicien a assemblé l' art.
+Le mécanicien a assemblé le vélo.
+Le mécanicien a vérifié les courses.
+Le mécanicien a vérifié le pneu.
+Le mécanicien a réparé le toit.
+Le mécanicien a réparé le pneu.
+Le mécanicien a loué le bateau.
+Le mécanicien a loué le camion.
+Le mécanicien a répandu le chocolat.
+Le mécanicien a étendu le revêtement.
+Le lapin portait le drapeau.
+Le laitier portait la bouteille.
+Le modèle était face à la montagne.
+Le modèle était face à la caméra.
+Le singe a saisi le tableau.
+Le singe a pris la banane.
+La mère a décoré la voiture.
+La mère a décoré la maison.
+La mère tenait le drapeau.
+La mère a tenu l' enfant.
+La mère a accroché le fusil.
+La mère a pendu le linge.
+La mère a préparé l' arme.
+La mère a préparé la nourriture.
+La mère a poussé la poubelle.
+La mère a poussé la poussette.
+Le déménageur a déplacé le cheval.
+Le déménageur a déplacé les meubles.
+Le musicien a amusé le démonstrateur.
+Le musicien a amusé la foule.
+Le musicien tenait la pierre.
+Le musicien tenait la guitare.
+Le musicien jouait au football.
+Le musicien a joué la chanson.
+Le musicien a lu le menu.
+Le musicien a lu la musique.
+Le musicien a touché la base.
+Le musicien a touché l' instrument.
+La nounou a entendu le discours.
+La nounou a entendu le bébé.
+La nounou a regardé le paysage.
+La nounou a regardé l' enfant.
+L' infirmière a remis le tuyau.
+L' infirmière a remis la lance.
+L' infirmière a poussé la tondeuse.
+L' infirmière a poussé le fauteuil roulant.
+L' infirmière a lavé la voiture.
+L' infirmière a lavé le bébé.
+Le peintre a terminé la course.
+Le peintre a terminé la peinture.
+Le peintre a décoré le gâteau.
+Le peintre a décoré le mur.
+Le peintre a mélangé la boisson.
+Le peintre a mélangé la peinture.
+Le peintre a peint l' ongle.
+Le peintre a peint le tableau.
+Le peintre a signé l' accord.
+Le peintre a signé la peinture.
+Le père a donné l' arme.
+Le parent a donné le cadeau.
+Le passager a acheté la table.
+Le passager a acheté le billet.
+Le passager a passé la balle.
+Le passager a passé le chèque.
+Le passager a tiré le cadavre.
+Le passager a tiré la valise.
+Le patient a combattu l' incendie.
+Le patient a combattu le cancer.
+Le patient a signalé le crime.
+Le patient a signalé le symptôme.
+Le philologue a examiné la caméra.
+Le philologue a examiné le livre.
+Le photographe a capturé le voleur.
+Le photographe a capturé l' image.
+Le photographe a examiné le chien.
+Le photographe a examiné la caméra.
+Le photographe a préparé la nourriture.
+Le photographe a préparé la caméra.
+Le photographe a utilisé le stéthoscope.
+Le photographe a utilisé la caméra.
+Le pilote a commencé la performance.
+Le pilote a commencé la course.
+Le pilote a commencé le concert.
+Le pilote a commencé la course.
+Le pilote a gagné la loterie.
+Le pilote a gagné la course.
+Le joueur a commencé la classe.
+Le joueur a commencé le match.
+Le joueur a apprécié la bière.
+Le joueur a apprécié le jeu.
+Le joueur a obtenu le diplôme.
+Le joueur a gagné le ballon.
+Le joueur a rassemblé l' herbe.
+Le joueur a rassemblé la balle.
+Le joueur a passé l' examen.
+Le joueur a passé la balle.
+Le joueur est arrivé sur la lune.
+Le joueur a atteint le but.
+Le joueur a touché la fleur.
+Le joueur a touché la base.
+Le poète a écrit le menu.
+Le poète a écrit le sonnet.
+Le policier a capturé l' image.
+Le policier a capturé le voleur.
+Le policier a vérifié les courses.
+Le policier a vérifié le sac.
+Le policier a examiné le patient.
+Le policier a examiné la voiture.
+Le policier a combattu l' obésité.
+Le policier a combattu le crime.
+Le policier a frappé la balle.
+Le policier a frappé le manifestant.
+Le policier a poussé la poussette.
+Le policier a poussé le manifestant.
+Le politicien a signé la peinture.
+Le politicien a signé l' accord.
+Le portier portait le drapeau.
+Le portier portait le sac.
+Le portier a chargé le dossier.
+Le portier a chargé les bagages.
+Le portier a mis le bois.
+Le portier a empilé la valise.
+Le courrier a livré le coup.
+Le pocheur a livré le courrier.
+Le président a donné le coup de pied.
+Le président a prononcé le discours.
+Le président a donné le livre.
+Le président a prononcé le discours.
+Le président a promis le vélo.
+Le président a promis la réforme.
+Le président a rendu visite à la grand-mère.
+Le président a visité l' école.
+Le prêtre a fêté l' école.
+Le prêtre a célébré le mariage.
+Le prêtre a promis une promotion.
+Le prêtre a promis le salut.
+Le prêtre enseignait la chimie.
+Le prêtre a enseigné la Bible.
+Le producteur a libéré le prisonnier.
+Le producteur a sorti le film.
+Le professeur a donné le coup de pied.
+Le professeur a prononcé la conférence.
+Le professeur a donné l' organe.
+Le professeur a fait un don du livre.
+Le professeur a ouvert la prison.
+Le professeur a ouvert le congrès.
+Le professeur a enseigné le karaté.
+Le professeur enseignait la langue.
+Le professeur portait des lunettes.
+Le professeur portait la cravate.
+Le professeur a écrit le magazine.
+Le professeur a écrit le livre.
+Le programmeur a décrit le monument.
+Le programmeur a décrit le logiciel.
+Le programmeur a chargé les munitions.
+Le programmeur a chargé le fichier.
+Le programmeur a utilisé la pelle.
+Le programmeur a utilisé l' ordinateur.
+L' élève a dessiné la turbine.
+L' élève a dessiné la fleur.
+Le bourreau a vendu le chocolat.
+Le pusher a vendu la drogue.
+Le pyromanque a démarré l' ordinateur.
+Le pyromaniac a déclenché le feu.
+Le récepteur a attrapé l' onde.
+Le receveur a attrapé le baseball.
+L' arbitre a déplacé les meubles.
+L' arbitre a déplacé la balle.
+Le réfugié a trouvé la poupée.
+Le réfugié a trouvé le refuge.
+Le journaliste a apporté le gâteau.
+Le journaliste a apporté les nouvelles.
+Le journaliste tenait le couteau.
+Le journaliste tenait la caméra.
+Le couvreur a grimpé sur le rocher.
+Le couvreur est monté par l' échelle.
+Le marin était face au mur.
+Le marin était face à l' océan.
+Le marin a nettoyé la salle de classe.
+Le marin a nettoyé le pont.
+Le marin a attaché la cravate.
+Le marin a attaché la corde.
+Le vendeur a envoyé l' arme.
+Le vendeur a envoyé le questionnaire.
+Le scientifique a signalé le mariage.
+Le scientifique a rapporté la découverte.
+Le scoutmaster a assemblé le voilier.
+Le scoutmaster a assemblé la tente.
+Le sculpteur a sculpté la viande.
+Le sculpteur a sculpté la pierre.
+Le sculpteur a appris à sauter en parachutistes.
+Le sculpteur a enseigné l' art.
+Le secrétaire a écrit le sonnet.
+La secrétaire a écrit la note.
+Le sergent a assigné les devoirs.
+Le sergent a assigné la mission.
+Le chanteur a commencé la course.
+Le chanteur a commencé la performance.
+Le chanteur tenait l' épée.
+Le chanteur tenait le microphone.
+Le chanteur a fait le tour.
+Le chanteur a joué la musique.
+Le chanteur a enregistré la recette.
+Le chanteur a enregistré la chanson.
+Le chanteur a commencé le jeu vidéo.
+Le chanteur a commencé le concert.
+Le patineur est monté dans le bus.
+Le patineur était sur les patins.
+Le skieur a gagné le ballon.
+Le skieur a gagné en vitesse.
+Le capitaine a assemblé le vélo.
+Le capitaine a assemblé le voilier.
+Le passeur a vendu la fleur.
+Le contrebandier a vendu l' arme.
+Le snowboarder a tourné la moto.
+Le snowboarder a renversé le tableau.
+Le soldat a porté la balle.
+Le soldat portait le fusil.
+Le soldat a fêté l' école.
+Le soldat a célébré la victoire.
+Le soldat a vérifié le brûleur.
+Le soldat a vérifié le fusil.
+Le soldat est passé sur scène.
+Le soldat a traversé la rivière.
+Le soldat a creusé la piscine.
+Le soldat a creusé la tranchée.
+Le soldat a combattu le cancer.
+Le soldat a combattu l' ennemi.
+Le soldat a rassemblé la balle.
+Le soldat a rassemblé les munitions.
+Le soldat a rassemblé l' herbe.
+Le soldat a rassemblé le drapeau.
+Le soldat a entendu le poème.
+Le soldat a entendu le commandement.
+Le soldat tenait le peigne.
+Le soldat tenait le drapeau.
+Le soldat a accroché la photo.
+Le soldat a accroché le fusil.
+Le soldat est arrivé au supermarché.
+Le soldat est arrivé à la tranchée.
+Le soldat a sorti le film.
+Le soldat a libéré le prisonnier.
+Le soldat a lancé la balle.
+Le soldat a jeté la bombe.
+Le soldat a lancé la boule de neige.
+Le soldat a jeté la bombe.
+Le soldat a utilisé la brosse.
+Le soldat a utilisé le couteau.
+Le soldat portait des jeans.
+Le soldat portait le casque.
+Le soldat portait un pyjama.
+Le soldat portait l' uniforme.
+Le haut-parleur a amusé le chien.
+L' orateur a amusé le public.
+Le spectateur a acheté la voiture.
+Le spectateur a acheté le billet.
+Le spectateur a apprécié le petit déjeuner.
+Le spectateur a apprécié le jeu.
+Le spectateur a entendu la corne.
+Le spectateur a entendu le discours.
+Le spectateur regardait l' oiseau.
+Le spectateur a regardé le match.
+Le spéléologue a examiné le livre.
+Le spéléologue a examiné la grotte.
+L' espion a passé le frisbee.
+L' espion a transmis l' information.
+L' étudiant a commencé le match.
+L' étudiant a commencé le voyage.
+L' étudiant a célébré le mariage.
+L' étudiant a fêté l' école.
+L' étudiant a terminé le marathon.
+L' étudiant a terminé le projet.
+L' étudiant a bu l' essence.
+L' étudiant a bu la bière.
+L' élève a bu le lait.
+L' étudiant a bu le café.
+L' élève a apprécié le mariage.
+L' élève a apprécié la bière.
+L' élève a entendu le commandement.
+L' étudiant a entendu la conférence.
+L' étudiant a passé la rivière.
+L' étudiant a passé l' examen.
+L' élève a lu la main.
+L' élève a lu le livre.
+L' étudiant a envoyé la bombe.
+L' élève a envoyé le courriel.
+L' étudiant a jeté les ordures.
+L' élève a jeté le frisbee.
+L' élève a utilisé la scie.
+L' étudiant a utilisé l' ordinateur.
+L' élève portait l' armure.
+L' étudiant portait des lunettes.
+L' élève portait la ceinture.
+L' étudiant portait des lunettes.
+Le surfeur a attrapé le baseball.
+Le surfeur a attrapé l' onde.
+Le surfeur a tourné le gâteau.
+Le surfeur a renversé la planche.
+Le surfeur a pris le frisbee.
+Le surfeur a saisi le tableau.
+Le surfeur était monté sur le chameau.
+Le surfeur a survécu à la vague.
+Le surfeur portait la cravate.
+Le surfeur portait des lunettes de soleil.
+Le surfeur portait un smoking.
+Le surfeur portait un maillot de bain.
+Le chirurgien a examiné la voiture.
+Le chirurgien a examiné le patient.
+Le chirurgien a fait la danse.
+Le chirurgien a opéré.
+Le chirurgien a utilisé le fusil.
+Le chirurgien a utilisé la lancette.
+Le balayeur a nettoyé la fenêtre.
+Le balayeur a nettoyé la rue.
+Le nageur portait le manteau.
+Le nageur portait des lunettes.
+Le tailleur a cousu la plaie.
+Le tailleur a cousu la robe.
+L' enseignante a expliqué la tactique.
+L' enseignante a expliqué l' exercice.
+Le professeur a donné la drogue.
+L' enseignante a donné les devoirs.
+L' enseignante a aidé le patient.
+L' enseignante a aidé l' enfant.
+Le professeur a prêté l' arme.
+Le professeur a prêté le livre.
+L' enseignante a utilisé le couteau.
+L' enseignante a utilisé le tableau.
+L' adolescent a entendu la conférence.
+L' adolescent a entendu la musique.
+Le terroriste a publié le livre.
+Le terroriste a libéré l' otage.
+Le voleur a pris la banane.
+Le voleur a pris l' argent.
+Le touriste lisait la Bible.
+Le touriste a lu la carte.
+Le touriste a fait du patinage.
+Le touriste est monté sur le chameau.
+Le touriste a visité le patient.
+Le touriste a visité le musée.
+Le voyageur a vérifié les courses.
+Le voyageur a vérifié le sac.
+Le voyageur a vérifié l' équipe.
+Le voyageur a vérifié la montre.
+Le voyageur a remis le tournevis.
+Le voyageur a remis le sac.
+Le camion a heurté le sac.
+Le camion a heurté la voiture.
+Le camion a labouré le jardin.
+Le camion a ployé la neige.
+Le funéraire a creusé la tranchée.
+Le funéraire a creusé la tombe.
+Le usurier a prêté le jouet.
+Le usurier a prêté l' argent.
+Le vandal a pulvérisé le parfum.
+Le vandal a pulvérisé la peinture.
+Le vétérinaire a examiné la plante.
+Le vétérinaire a examiné le chien.
+Le violoniste a joué de la trompette.
+Le violoniste jouait du violon.
+Le violoniste portait le casque.
+Le violoniste portait le smoking.
+Le bénévole a apporté la hache.
+Le bénévole a apporté la nourriture.
+Le serveur a apporté la guitare.
+Le serveur a apporté le verre.
+Le serveur portait le fusil.
+Le serveur portait le plateau.
+Le serveur a dégagé la route.
+Le serveur a débarqué.
+Le serveur a débarrassé le tube.
+Le serveur a dégagé la table.
+Le serveur a coupé les cheveux.
+Le serveur a coupé le gâteau.
+Le serveur a prononcé le discours.
+Le serveur a livré la boisson.
+Le serveur a ramené la balle.
+Le serveur a ramené l' eau.
+Le serveur tenait le drapeau.
+Le serveur tenait la bouteille.
+Le serveur a mélangé le ciment.
+Le serveur a mélangé la boisson.
+Le serveur a ouvert le sarcophage.
+Le serveur a ouvert la bouteille.
+Le serveur a versé l' essence.
+Le serveur a versé le vin.
+Le serveur a préparé la bombe.
+Le serveur a préparé la boisson.
+Le témoin a expliqué l' équation.
+Le témoin a expliqué les circonstances.
+Le témoin a rapporté la naissance.
+Le témoin a signalé le crime.
+La femme portait la pierre.
+La femme portait le sac.
+La femme a ouvert le conduit.
+La femme a ouvert le sac.
+La femme a peint le panneau.
+La femme a peint l' ongle.

@@ -3,6 +3,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import pandas as pd
 import glob
 import os
+import ipdb
 
 class Multilingual:
 
@@ -33,7 +34,7 @@ class Multilingual:
 
 
 def main():
-    data_dir = r"C:\Users\Utente\Documents\GitHub\Event_Knowledge_Model_Comparison\datasets\id_verbs"
+    data_dir = r"C:\Users\Utente\Documents\GitHub\Multilingual_thematic_fit\data"
     txt_files = list(glob.glob(f"{data_dir}/*.txt"))
     tokenizer = AutoTokenizer.from_pretrained("facebook/nllb-200-distilled-600M")
     model = AutoModelForSeq2SeqLM.from_pretrained("facebook/nllb-200-distilled-600M")
@@ -61,7 +62,7 @@ def main():
                 "sentences": [],
                 }
             out_file_name = os.path.join(
-                    "txt_results", f"{language}_{os.path.basename(filename)}_sentence.txt"
+                "txt_results", f"{language}_{os.path.basename(filename)}_sentence.txt"
                 )
             for idx, row in enumerate(dataset.itertuples()):
                 sentence = row[2]           
@@ -70,6 +71,7 @@ def main():
                 )
                 result["sentences"].append(multilingual.translation)
                 #print(result)
+            print(f"Translation into {language} completed.")
             # Creazione di un DataFrame per i risultati di questa lingua
             df_result = pd.DataFrame(result)
         
@@ -78,14 +80,13 @@ def main():
                 "txt_results", f"{language}_{os.path.basename(filename)}_sentence.txt"
             )
 
-        # Salvataggio del DataFrame nel file di output per questa lingua
-        df_result.to_csv(
-            out_file_name, 
-            sep="\t", 
-            header=None, 
-            index=None
-        )
-        print(f"Translation into {language} completed.")
+            # Salvataggio del DataFrame nel file di output per questa lingua
+            df_result.to_csv(
+                out_file_name, 
+                sep="\t", 
+                header=None, 
+                index=None
+            )
 
         print(f"Processing of file {filename} completed.\n")    
  
