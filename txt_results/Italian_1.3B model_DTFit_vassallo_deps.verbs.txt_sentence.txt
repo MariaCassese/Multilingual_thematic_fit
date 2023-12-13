@@ -1,0 +1,798 @@
+L' attore ha vinto la battaglia.
+L' attore ha vinto il premio.
+L' anchorman ha raccontato la parabola.
+L' anchorman ha detto la notizia.
+L' animale ha trovato la mappa.
+L' animale ha trovato il cibo.
+La formica ha impilato la valigia.
+La formica ha accumulato il rifornimento.
+L' archeologo ha esaminato il cane.
+L' archeologo ha esaminato l' epigrafe.
+L' arciere ha rilasciato l' intervista.
+L' arciere ha rilasciato la freccia.
+L' artista ha assemblato la tenda.
+L' artista ha assemblato l' arte.
+L' artista ha appeso la moto.
+L' artista ha appeso il quadro.
+L' assistente ha aiutato il soldato.
+L' assistente ha aiutato il cuoco.
+L' astronauta ha raggiunto il fornaio.
+L' astronauta ha raggiunto la luna.
+L' astronauta ha toccato la chitarra.
+L' astronauta ha toccato terra.
+L' atleta ha celebrato il matrimonio.
+L' atleta festeggiava la vittoria.
+L' atleta ha iniziato l' aspirapolvere.
+L' atleta ha iniziato la partita.
+L' atleta ha vinto il giocattolo.
+L' atleta ha vinto la coppa.
+L' autore ha firmato l' assegno.
+L' autore ha firmato il libro.
+Il fornaio ha raccolto il soldato.
+Il fornaio raccolse il pane.
+Il fornaio ha venduto il passeggino.
+Il fornaio ha venduto il pane.
+La banca mi ha assegnato il libro.
+La banca ha assegnato il codice.
+Il barbiere ha tagliato la torta.
+Il barbiere ha tagliato i capelli.
+Il barbiere ha usato il microscopio.
+Il barbiere ha usato il rasoio.
+Il barista mi ha dato la lancetta.
+Il barista ha dato il drink.
+Il barista ha scosso la bandiera.
+Il barista ha scosso il drink.
+La estetista ha messo la vernice.
+La estetista ha messo la crema.
+Il motociclista ha iniziato la lezione.
+Il motociclista ha acceso la moto.
+Il motociclista indossava il costume da bagno.
+Il motociclista indossava il casco.
+Il miliardario ha donato il libro.
+Il miliardario ha donato i soldi.
+Il cestinista ha raccolto il fiore.
+Il cassonetto ha raccolto la spazzatura.
+Il biologo ha usato il rasoio.
+Il biologo ha usato il microscopio.
+Il fabbro ha versato il vino.
+Il fabbro ha versato il metallo.
+Il bodybuilder ha alzato la bandiera.
+Il bodybuilder ha sollevato il peso.
+Il capo ha assegnato la medaglia.
+Il capo ha assegnato il lavoro.
+Il capo ha promesso il paradiso.
+Il capo ha promesso la promozione.
+Il botanico ha esaminato la gomma.
+Il botanico ha esaminato la pianta.
+Il pugile ha consegnato il drink.
+Il pugile ha dato il pugno.
+L' allevatore ha venduto la sigaretta.
+L' allevatore ha venduto il cane.
+Il ladro si è arrampicato sulla roccia.
+Il ladro è salito sul muro.
+L' uomo d' affari ha letto la favola.
+L' uomo d' affari ha letto il rapporto.
+L' uomo d' affari ha legato il prigioniero.
+L' uomo d' affari ha legato la cravatta.
+L' uomo d' affari indossava l' uniforme.
+L' uomo d' affari indossava la cravatta.
+Il macellaio ha scolpito la pietra.
+Il macellaio ha tagliato la carne.
+Il macellaio ha tagliato l' albero.
+Il macellaio ha tagliato la carne.
+Il macellaio ha venduto l' arma.
+Il macellaio ha venduto la carne.
+Il macellaio ha usato la telecamera.
+Il macellaio ha usato il coltello.
+Il cameraman ha registrato la vendita.
+Il cameraman ha registrato il video.
+Il candidato ha festeggiato la festa.
+Il candidato festeggiava la vittoria.
+Il falegname ha riparato la scarpa.
+Il falegname ha sistemato la sedia.
+Il falegname ha girato i capelli.
+Il falegname ha capovolto la tavola.
+Il falegname ha preso la palla.
+Il falegname ha preso la tavola.
+Il falegname ha costruito la casa.
+Il scultore ha costruito la scultura.
+Il gatto insegueva l' aquilone.
+Il gatto insegueva l' uccello.
+Il gatto ha bevuto il caffè.
+Il gatto ha bevuto il latte.
+Il campione teneva la chitarra.
+Il campione teneva la coppa.
+L' autista aveva il fucile.
+L' autista ha portato il passeggero.
+La cheerleader portava il fucile.
+La cheerleader portava la bandiera.
+La cheerleader ha eseguito l' incantesimo.
+La cheerleader ha eseguito la danza.
+La cheerleader ha scosso il drink.
+La cheerleader ha scosso la bandiera.
+Il chimico ha mescolato la musica.
+Il chimico ha mescolato la sostanza.
+Il farmacista ha versato il succo.
+Il chimico ha versato il composto.
+Il farmacista ha venduto il cane.
+Il farmacista ha venduto la droga.
+Il bambino ha mangiato l' osso.
+Il bambino ha mangiato le caramelle.
+Il bambino ha costruito la scultura.
+Il bambino ha costruito il pupazzo di neve.
+Il bambino festeggiava la vittoria.
+Il bambino ha festeggiato il compleanno.
+Il bambino inseguì il ladro.
+Il bambino insegue il giocattolo.
+Il bambino è salito sulla montagna.
+Il bambino è salito sull' albero.
+Il bambino ha attraversato il fiume.
+Il bambino ha attraversato il parco.
+Il bambino ha tagliato l' albero.
+Il bambino ha tagliato la carta.
+Il bambino ha bevuto la birra.
+Il bambino ha bevuto la coca.
+Il bambino ha disegnato il cavallo.
+Il bambino ha disegnato il fiore.
+Il bambino ha apprezzato la lezione.
+Il bambino ha apprezzato il viaggio.
+Il bambino ha trovato il cadavere.
+Il bambino ha trovato la bambola.
+Il bambino ha afferrato la gomma.
+Il bambino ha preso il frisbee.
+Il bambino ha prestato la macchina.
+Il bambino ha prestato la penna.
+Il bambino ha aperto il congresso.
+Il bambino ha aperto il regalo.
+Il bambino ha scelto l' investimento.
+Il bambino ha raccolto il fiore.
+Il bambino cavalcava il toro.
+Il bambino è salito sull' autobus.
+Il bambino ha gettato la bottiglia.
+Il bambino ha lanciato la palla.
+Il bambino ha lanciato la lancia.
+Il bambino ha lanciato la palla di neve.
+Il bambino ha pronunciato il verdetto.
+Il bambino ha mentito.
+Il bambino ha visitato il presidente.
+Il bambino è andato a trovare la nonna.
+Il bambino ha visitato il prigioniero.
+Il bambino è andato allo zoo.
+Il bambino ha scritto la diagnosi.
+Il bambino ha scritto la coniugazione.
+L' alpinista salì le scale.
+L' alpinista si arrampicò sulla roccia.
+L' alpinista guardava verso l' oceano.
+L' alpinista si rivolgeva al muro.
+L' alpinista ha usato la lavagna.
+L' alpinista ha usato la corda.
+L' allenatore ha controllato l' auto.
+L' allenatore ha controllato la squadra.
+Il calzolaio ha riparato il telefono.
+Il calzolaio ha sistemato la scarpa.
+Il calzolaio ha cucito il paracadute.
+Il calzolaio ha cucito la scarpa.
+Il collettore ha donato il sangue.
+Il collezionista ha donato il dipinto.
+Il comico intrattenne il soldato.
+Il comico intrattenne il pubblico.
+Il pasticcere ha decorato l' albero.
+Il pasticcere ha decorato la torta.
+Il pasticcere ha messo il cemento.
+Il pasticcere ha messo la glassa.
+La cuoca ha comprato il biglietto.
+Il cuoco ha comprato il cibo.
+La cuoca ha controllato la gomma.
+La cuoca ha controllato la spesa.
+La cuoca ha pulito la finestra.
+La cuoca ha pulito il pesce.
+Il cuoco taglia l' erba.
+Il cuoco ha tagliato il pesce.
+La cuoca ha girato i capelli.
+La cuoca ha tirato il pancake.
+Il cuoco ha mescolato la vernice.
+Il cuoco ha mescolato gli ingredienti.
+Il cowboy ha gustato lo spuntino.
+Il cowboy ha apprezzato il giro.
+Il cowboy era in bicicletta.
+Il cowboy cavalcava il toro.
+L' equipaggio ha caricato il passeggino.
+L' equipaggio ha caricato il container.
+Il cliente legge la musica.
+Il cliente ha letto il menu '.
+Il ciclista ha completato il progetto.
+Il ciclista ha completato la gara.
+Il ciclista ha sistemato i capelli.
+Il ciclista ha riparato la bici.
+Il ciclista ha fatto i pattini.
+Il ciclista ha guidato la bici.
+Il dealer ha controllato la rete.
+Il concessionario ha controllato l' auto.
+Il trafficante ha esaminato la pianta.
+Il concessionario ha esaminato l' auto.
+Il mercante ha venduto la carne.
+Il concessionario ha venduto l' auto.
+Il DJ ha mescolato l' ingrediente.
+Il DJ ha mescolato la musica.
+Il dimostrante portava la palla.
+Il manifestante portava la bandiera.
+Il manifestante ha firmato la maglietta.
+Il manifestante ha firmato la petizione.
+Il dimostrante ha lanciato il frisbee.
+Il manifestante ha lanciato la pietra.
+Il diplomatico ha portato il cane.
+Il diplomatico portò il messaggio.
+Il dottore ha aiutato la cuoca.
+Il dottore ha aiutato la donna.
+Il dottore ha offerto la colazione.
+Il dottore ha offerto il supporto.
+Il dottore ha cucito la scarpa.
+Il dottore ha cucito la ferita.
+Il dottore ha usato la pala.
+Il dottore ha usato lo stetoscopio.
+Il dottore ha visitato il museo.
+Il dottore ha visitato il paziente.
+Il dottore ha scritto la coniugazione.
+Il dottore ha scritto la diagnosi.
+Il cane ha mangiato la pianta.
+Il cane ha mangiato l' osso.
+Il cane portava la bandiera.
+Il cane ha portato la palla.
+Il cane ha preso l' onda.
+Il cane ha preso la palla.
+Il cane ha inseguito il carro armato.
+Il cane ha inseguito la palla.
+Il cane ha scavato la tomba.
+Il cane ha scavato la buca.
+Il cane ha portato il vassoio.
+Il cane ha portato la palla.
+Il cane ha premuto il grilletto.
+Il cane ha tirato la slitta.
+L' autista ha sentito il bambino.
+L' autista ha sentito il clacson.
+L' elettricista ha controllato il fucile.
+L' elettricista ha controllato il dispositivo.
+L' impiegato ha passato il fucile.
+L' impiegato ha approvato il rapporto.
+Il datore di lavoro ha offerto le caramelle.
+Il datore di lavoro mi ha offerto il lavoro.
+L' ingegnere ha completato il dipinto.
+L' ingegnere ha completato il progetto.
+L' ingegnere ha disegnato il fiore.
+L' ingegnere ha tirato la turbina.
+Il contadino ha scelto l' assassino.
+Il contadino ha raccolto le verdure.
+Il contadino arò la sabbia.
+Il contadino arò il campo.
+Il contadino ha venduto la droga.
+Il contadino ha venduto il mais.
+Il contadino ha spruzzato la panna.
+Il contadino ha spruzzato il pesticida.
+Il contadino ha usato il computer.
+Il contadino ha usato la pala.
+Il pugile ha calciato la televisione.
+Il pugile ha calciato l' avversario.
+Il pompiere ha combattuto il crimine.
+Il pompiere ha combattuto l' incendio.
+Il pescatore ha preso la palla.
+Il pescatore ha preso il pesce.
+Il pescatore ha controllato l' auto.
+Il pescatore ha controllato la rete.
+Il pescatore ha venduto la droga.
+Il pescatore ha venduto il pesce.
+Il fioraio ha venduto la bici.
+Il fioraio ha venduto il fiore.
+Il calciatore ha inseguito il giocattolo.
+Il calciatore ha inseguito la palla.
+Il calciatore ha tenuto la conferenza.
+Il calciatore ha lanciato il calcio.
+Il calciatore ha colpito l' auto.
+Il calciatore ha colpito la palla.
+Il calciatore ha calciato il vaso.
+Il calciatore ha calciato la palla.
+Il calciatore ha passato il coltello.
+Il calciatore ha passato la palla.
+Il giardiniere ha tagliato il pesce.
+Il giardiniere taglia l' erba.
+Il giardiniere ha decorato il libro.
+Il giardiniere ha decorato il giardino.
+Il giardiniere ha raccolto la bandiera.
+Il giardiniere raccoglieva l' erba.
+Il giardiniere ha spinto il dimostrante.
+Il giardiniere spinse la falciatrice.
+Il generale raccolse il pane.
+Il generale ha raccolto il soldato.
+Il generale ha mandato la cartolina.
+Il generale ha mandato il soldato.
+Il generale ha vinto il giocattolo.
+Il generale ha vinto la battaglia.
+Il portiere ha preso il pesce.
+Il portiere ha preso la palla.
+Il portiere ha preso il telefono.
+Il portiere ha afferrato la palla.
+Il portiere ha tenuto il bambino.
+Il portiere teneva la palla.
+Il portiere ha lanciato la bomba.
+Il portiere ha lanciato la palla.
+Il governo ha offerto il drink.
+Il governo ha offerto la protezione.
+Il nonno ha detto la strategia.
+Il nonno ha raccontato la storia.
+La guardia ha aperto il regalo.
+La guardia ha aperto la prigione.
+La guardia ha legato il rosto.
+La guardia legò il prigioniero.
+L' ospite teneva la telecamera.
+L' ospite ha tenuto il drink.
+L' ospite ha appeso il bucato.
+L' ospite ha appeso il cappotto.
+La guida ha descritto il software.
+La guida ha descritto il monumento.
+Il parrucchiere ha riparato la bici.
+Il parrucchiere ha sistemato i capelli.
+Il parrucchiere ha capovolto la tavola.
+Il parrucchiere ha capovolto i capelli.
+Il parrucchiere ha spruzzato il pesticida.
+Il parrucchiere ha spruzzato la schiuma.
+La parrucchiera ha lavato il bambino.
+Il parrucchiere ha lavato i capelli.
+L' escursionista era rivolto alla telecamera.
+L' escursionista guardava verso la montagna.
+Il cavallo ha tirato la roulotte.
+Il cavallo ha tirato la carrozza.
+Il cavallo ha spostato la valigia.
+Il cavallo ha spostato il carro.
+Il cavallo ha tirato la valigia.
+Il cavallo ha tirato il carro.
+L' hostess ha spiegato la poesia.
+L' hostess ha spiegato la procedura.
+Il cane ha portato i soldi.
+Il cane ha preso l' uccello.
+La domestica ha pulito il pesce.
+La domestica ha pulito il piatto.
+La domestica pulì la strada.
+La domestica ha pulito la finestra.
+La domestica ha pulito la baracca.
+La domestica ha pulito il pavimento.
+La domestica ha lavato la barca.
+La domestica lavò il pavimento.
+La casalinga ha pulito la scarpa.
+La casalinga ha pulito il tavolo.
+L' illusionista ha eseguito l' intervento.
+L' illusionista ha eseguito il trucco.
+L' illustratore ha decorato il giardino.
+L' illustratore ha decorato il libro.
+L' illustratore ha disegnato la carrozza.
+L' illustratore ha disegnato il quadro.
+L' investitore ha noleggiato la bicicletta.
+L' investitore ha affittato il terreno.
+Il gioccoi cavalcava l' onda.
+Il gioccoi cavalcava il cavallo.
+Il giornalista portava il latte.
+Il giornalista ha portato l' articolo.
+Il giornalista ha scritto la canzone.
+Il giornalista ha scritto l' articolo.
+L' assassino ha tirato il carro.
+L' assassino ha premuto il grilletto.
+Il cavaliere teneva la telecamera.
+Il cavaliere teneva la spada.
+Il bibliotecario è salito sull' albero.
+Il bibliotecario è salito sulla scala.
+Il bibliotecario ha messo le scorte.
+Il bibliotecario ha accumulato il libro.
+Il boscaiolo ha tagliato la carne.
+Il boscaiolo ha tagliato l' albero.
+Il boscaiolo ha accumulato il libro.
+Il boscaiolo ha impilato la legna.
+Il boscaiolo ha usato la lancetta.
+Il boscaiolo ha usato la sega.
+Il mago ha letto il giornale.
+Il mago ha letto la mano.
+Il direttore ha noleggiato il kayak.
+Il direttore ha affittato la stanza.
+Il muratore ha costruito il pupazzo di neve.
+Il muratore ha costruito la casa.
+Il muratore ha riparato la moto.
+Il muratore ha riparato il tetto.
+Il muratore ha riparato la gomma.
+Il muratore ha riparato il muro.
+Il muratore ha mescolato la zuppa.
+Il muratore ha mescolato il cemento.
+Il meccanico ha assemblato l' arte.
+Il meccanico ha assemblato la bicicletta.
+Il meccanico ha controllato la spesa.
+Il meccanico ha controllato la gomma.
+Il meccanico ha riparato il tetto.
+Il meccanico ha riparato la gomma.
+Il meccanico ha affittato la barca.
+Il meccanico ha noleggiato il camion.
+Il meccanico ha distribuito la cioccolata.
+Il meccanico ha rivestito il rivestimento.
+Il lattiere portava la bandiera.
+Il lattiere portava la bottiglia.
+Il modello si affacciava sulla montagna.
+La modella era rivolta alla telecamera.
+La scimmia ha afferrato la tavola.
+La scimmia ha preso la banana.
+La madre ha decorato l' auto.
+La madre ha decorato la casa.
+La madre teneva la bandiera.
+La madre teneva il bambino.
+La madre ha appeso il fucile.
+La madre ha appeso il bucato.
+La madre ha preparato la pistola.
+La madre preparò il cibo.
+La madre ha spinto il cestino.
+La madre ha spinto il passeggino.
+Il traslocatore ha spostato il cavallo.
+Il traslocatore ha spostato i mobili.
+Il musicista intrattenne il dimostrante.
+Il musicista intrattenne la folla.
+Il musicista teneva la pietra.
+Il musicista teneva la chitarra.
+Il musicista giocava a calcio.
+Il musicista ha suonato la canzone.
+Il musicista ha letto il menu.
+Il musicista legge la musica.
+Il musicista ha toccato la base.
+Il musicista toccò lo strumento.
+La tata ha sentito il discorso.
+La tata ha sentito il bambino.
+La tata guardava il paesaggio.
+La tata guardava il bambino.
+L' infermiera mi ha dato il tubo.
+L' infermiera mi ha dato la lancetta.
+L' infermiera ha spinto la falciatrice.
+L' infermiera ha spinto la sedia a rotelle.
+L' infermiera ha lavato l' auto.
+L' infermiera ha lavato il bambino.
+Il pittore ha completato la gara.
+Il pittore ha completato il dipinto.
+Il pittore ha decorato la torta.
+Il pittore ha decorato la parete.
+Il pittore ha mescolato la bevanda.
+Il pittore ha mescolato la vernice.
+Il pittore ha dipinto l' unghia del piede.
+Il pittore ha dipinto il quadro.
+Il pittore ha firmato l' accordo.
+Il pittore ha firmato la vernice.
+Il genitore ha dato la pistola.
+Il genitore ha dato il regalo.
+Il passeggero ha comprato il tavolo.
+Il passeggero ha comprato il biglietto.
+Il passeggero ha passato la palla.
+Il passeggero ha superato l' assegno.
+Il passeggero ha tirato fuori il cadavere.
+Il passeggero ha tirato la valigia.
+Il paziente ha combattuto l' incendio.
+Il paziente ha combattuto il cancro.
+Il paziente ha denunciato il crimine.
+Il paziente ha riportato il sintomo.
+Il filologo ha esaminato la telecamera.
+Il filologo ha esaminato il libro.
+Il fotografo ha catturato il ladro.
+Il fotografo ha catturato l' immagine.
+Il fotografo ha esaminato il cane.
+Il fotografo ha esaminato la macchina fotografica.
+Il fotografo ha preparato il cibo.
+Il fotografo ha preparato la macchina fotografica.
+Il fotografo ha usato lo stetoscopio.
+Il fotografo ha usato la macchina fotografica.
+Il pilota ha iniziato la performance.
+Il pilota ha iniziato la gara.
+Il pilota ha iniziato il concerto.
+Il pilota ha iniziato la gara.
+Il pilota ha vinto la lotteria.
+Il pilota ha vinto la gara.
+Il giocatore ha iniziato la lezione.
+Il giocatore ha iniziato la partita.
+Il giocatore ha apprezzato la birra.
+Il giocatore ha apprezzato la partita.
+Il giocatore ha ottenuto il diploma.
+Il giocatore ha guadagnato la palla.
+Il giocatore raccoglieva l' erba.
+Il giocatore ha raccolto la palla.
+Il giocatore ha superato l' esame.
+Il giocatore ha passato la palla.
+Il giocatore ha raggiunto la luna.
+Il giocatore ha raggiunto il traguardo.
+Il giocatore ha toccato il fiore.
+Il giocatore ha toccato la base.
+Il poeta ha scritto il menu '.
+Il poeta ha scritto il sonetto.
+Il poliziotto ha catturato l' immagine.
+Il poliziotto ha catturato il ladro.
+Il poliziotto ha controllato la spesa.
+Il poliziotto ha controllato la borsa.
+Il poliziotto esaminò il paziente.
+Il poliziotto ha esaminato l' auto.
+Il poliziotto ha combattuto l' obesità.
+Il poliziotto ha combattuto il crimine.
+Il poliziotto ha colpito la palla.
+Il poliziotto ha colpito il manifestante.
+Il poliziotto ha spinto il passeggino.
+Il poliziotto ha spinto il manifestante.
+Il politico ha firmato la vernice.
+Il politico ha firmato l' accordo.
+Il portiere portava la bandiera.
+Il portiere ha portato la borsa.
+Il portiere ha caricato il file.
+Il portiere ha caricato i bagagli.
+Il portiere ha impilato il legno.
+Il portiere ha impilato la valigia.
+Il postino ha consegnato il pugno.
+Il postino ha consegnato la posta.
+Il Presidente ha dato il calcio.
+Il Presidente ha pronunciato il discorso.
+Il presidente ha dato il libro.
+Il Presidente ha fatto il discorso.
+Il Presidente ha promesso la bicicletta.
+Il Presidente ha promesso la riforma.
+Il presidente ha visitato la nonna.
+Il presidente ha visitato la scuola.
+Il prete ha celebrato la laurea.
+Il prete ha celebrato il matrimonio.
+Il prete ha promesso la promozione.
+Il prete prometteva la salvezza.
+Il prete insegnava chimica.
+Il prete mi ha insegnato la Bibbia.
+Il produttore ha rilasciato il prigioniero.
+Il produttore ha rilasciato il film.
+Il professore ha dato il calcio.
+Il professore ha tenuto la conferenza.
+Il professore ha donato l' organo.
+Il professore ha donato il libro.
+Il professore ha aperto la prigione.
+Il professore ha aperto il congresso.
+Il professore insegnava il karate.
+Il professore insegnava la lingua.
+Il professore indossava gli occhiali.
+Il professore indossava la cravatta.
+Il professore ha scritto la rivista.
+Il professore ha scritto il libro.
+Il programmatore ha descritto il monumento.
+Il programmatore ha descritto il software.
+Il programmatore ha caricato le munizioni.
+Il programmatore ha caricato il file.
+Il programmatore ha usato la pala.
+Il programmatore ha usato il computer.
+La pupilla ha tirato la turbina.
+L' allievo ha disegnato il fiore.
+Il trafficante ha venduto la cioccolata.
+Il spacciatore ha venduto la droga.
+Il piromane ha acceso il computer.
+Il piromane ha dato il via all' incendio.
+Il ricevitore ha catturato l' onda.
+Il ricevitore ha preso la palla.
+L' arbitro ha spostato i mobili.
+L' arbitro ha spostato la palla.
+Il rifugiato ha trovato la bambola.
+Il rifugiato ha trovato il rifugio.
+Il giornalista ha portato la torta.
+Il giornalista ha portato la notizia.
+Il giornalista teneva il coltello.
+Il giornalista teneva la telecamera.
+Il copritrattore si e'arrampicato sulla roccia.
+Il copritore è salito sulla scala.
+Il marinaio si rivolse al muro.
+Il marinaio guardava verso l' oceano.
+Il marinaio ha spazzato via la classe.
+Il marinaio ha spazzato il ponte.
+Il marinaio ha legato la cravatta.
+Il marinaio ha legato la corda.
+Il venditore ha mandato la pistola.
+Il venditore ha mandato il questionario.
+Lo scienziato ha denunciato il matrimonio.
+Lo scienziato ha riferito la scoperta.
+Il capitano scout ha assemblato la barca a vela.
+Il capo scout ha assemblato la tenda.
+Lo scultore ha scolpito la carne.
+Lo scultore ha scolpito la pietra.
+Lo scultore ha insegnato il paracadutismo.
+Lo scultore ha insegnato l' arte.
+La segretaria ha scritto il sonetto.
+La segretaria ha scritto il biglietto.
+Il sergente ha assegnato i compiti.
+Il sergente ha assegnato la missione.
+Il cantante ha iniziato la gara.
+La cantante ha iniziato la performance.
+Il cantante teneva la spada.
+Il cantante teneva il microfono.
+Il cantante ha eseguito il trucco.
+Il cantante eseguiva la musica.
+Il cantante ha registrato la ricetta.
+Il cantante ha registrato la canzone.
+Il cantante ha iniziato il videogioco.
+Il cantante ha iniziato il concerto.
+Il pattinatore era sull' autobus.
+Il pattinatore ha fatto i pattini.
+Lo sciatore ha vinto la palla.
+Lo sciatore ha guadagnato velocità.
+Il capitano ha assemblato la bicicletta.
+Il capitano ha assemblato la barca a vela.
+Il contrabbandiere ha venduto il fiore.
+Il contrabbandiere ha venduto l' arma.
+Il snowboarder ha capovolto la bici.
+Il snowboarder ha capovolto la tavola.
+Il soldato portava la palla.
+Il soldato portava il fucile.
+Il soldato ha festeggiato la laurea.
+Il soldato festeggiava la vittoria.
+Il soldato ha controllato il distributore.
+Il soldato ha controllato il fucile.
+Il soldato attraversò il palco.
+Il soldato attraversò il fiume.
+Il soldato ha scavato la piscina.
+Il soldato scavò la trincea.
+Il soldato ha combattuto il cancro.
+Il soldato ha combattuto il nemico.
+Il soldato raccolse la palla.
+Il soldato raccolse le munizioni.
+Il soldato raccolse l' erba.
+Il soldato raccolse la bandiera.
+Il soldato ha sentito la poesia.
+Il soldato ha sentito il comando.
+Il soldato teneva il pettine.
+Il soldato teneva la bandiera.
+Il soldato appese il quadro.
+Il soldato ha appeso il fucile.
+Il soldato raggiunse il supermercato.
+Il soldato raggiunse la trincea.
+Il soldato ha rilasciato il film.
+Il soldato ha rilasciato il prigioniero.
+Il soldato ha lanciato la palla.
+Il soldato ha lanciato la bomba.
+Il soldato ha lanciato la palla di neve.
+Il soldato ha lanciato la bomba.
+Il soldato ha usato il pennello.
+Il soldato ha usato il coltello.
+Il soldato indossava i jeans.
+Il soldato indossava il casco.
+Il soldato indossava il pigiama.
+Il soldato indossava l' uniforme.
+L' oratore intrattenne il cane.
+L' oratore ha intrattenuto l' ascolto.
+Lo spettatore ha comprato l' auto.
+Lo spettatore ha comprato il biglietto.
+Lo spettatore ha gustato la colazione.
+Lo spettatore ha apprezzato la partita.
+Lo spettatore ha sentito il clacson.
+Lo spettatore ha sentito il discorso.
+Lo spettatore guardava l' uccello.
+Lo spettatore ha guardato la partita.
+Il speleologo ha esaminato il libro.
+Il speleologo ha esaminato la grotta.
+La spia ha passato il frisbee.
+La spia ha passato le informazioni.
+Lo studente ha iniziato la partita.
+Lo studente ha iniziato il viaggio.
+Lo studente ha celebrato il matrimonio.
+Lo studente ha festeggiato la laurea.
+Lo studente ha completato la maratona.
+Lo studente ha completato il progetto.
+Lo studente ha bevuto la benzina.
+Lo studente ha bevuto la birra.
+Lo studente ha bevuto il latte.
+Lo studente beveva il caffè.
+Lo studente ha apprezzato il matrimonio.
+Lo studente ha gustato la birra.
+Lo studente ha sentito il comando.
+Lo studente ha sentito la lezione.
+Lo studente ha attraversato il fiume.
+Lo studente ha superato l' esame.
+Lo studente ha letto la mano.
+Lo studente ha letto il libro.
+Lo studente ha mandato la bomba.
+L' studente ha mandato l' email.
+Lo studente ha buttato la spazzatura.
+Lo studente ha lanciato il frisbee.
+Lo studente ha usato la sega.
+Lo studente ha usato il computer.
+Lo studente indossava l' armatura.
+Lo studente indossava gli occhiali.
+Lo studente indossava l' imbracatura.
+Lo studente indossava gli occhiali.
+Il surfista ha preso la palla da baseball.
+Il surfista ha preso l' onda.
+Il surfista ha tirato il pancake.
+Il surfista ha capovolto la tavola.
+Il surfista ha preso il frisbee.
+Il surfista ha afferrato la tavola.
+Il surfista cavalcava il cammello.
+Il surfista cavalcava l' onda.
+Il surfista indossava la cravatta.
+Il surfista indossava gli occhiali da sole.
+Il surfista indossava lo smoking.
+Il surfista indossava il costume da bagno.
+Il chirurgo ha esaminato l' auto.
+Il chirurgo ha esaminato il paziente.
+Il chirurgo eseguiva la danza.
+Il chirurgo ha eseguito l' intervento.
+Il chirurgo ha usato il fucile.
+Il chirurgo ha usato la lancetta.
+Il spazzino ha pulito la finestra.
+Il spazzino ha ripulito la strada.
+Il nuotatore indossava il mantello.
+Il nuotatore indossava gli occhiali.
+Il sarto ha cucito la ferita.
+Il sarto ha cucito il vestito.
+L' insegnante ha spiegato la tattica.
+L' insegnante ha spiegato l' esercizio.
+L' insegnante ha dato la droga.
+L' insegnante ha dato i compiti.
+L' insegnante ha aiutato il paziente.
+L' insegnante ha aiutato il bambino.
+L' insegnante ha prestato la pistola.
+L' insegnante ha prestato il libro.
+L' insegnante ha usato il coltello.
+L' insegnante ha usato la lavagna.
+L' adolescente ha sentito la lezione.
+L' adolescente ha sentito la musica.
+Il terrorista ha rilasciato il libro.
+Il terrorista ha rilasciato l' ostaggio.
+Il ladro ha preso la banana.
+Il ladro ha preso i soldi.
+Il turista legge la Bibbia.
+Il turista ha letto la mappa.
+Il turista ha fatto i pattini.
+Il turista cavalcava il cammello.
+Il turista ha visitato il paziente.
+Il turista ha visitato il museo.
+Il viaggiatore ha controllato le spesa.
+Il viaggiatore ha controllato la borsa.
+Il viaggiatore ha controllato la squadra.
+Il viaggiatore ha controllato l' orologio.
+Il viaggiatore mi ha dato il cacciavite.
+Il viaggiatore ha consegnato la borsa.
+Il camion ha colpito la borsa.
+Il camion ha colpito l' auto.
+Il camion ha arato il giardino.
+Il camion ha arato la neve.
+Il fornaio ha scavato la trincea.
+Il becchino ha scavato la tomba.
+L' usuraio ha prestato il giocattolo.
+L' usuraio ha prestato i soldi.
+Il vandale ha spruzzato il profumo.
+Il vandale ha spruzzato la vernice.
+Il veterinario ha esaminato la pianta.
+Il veterinario ha esaminato il cane.
+Il violinista suonava la tromba.
+Il violinista suonava il violino.
+Il violinista indossava il casco.
+Il violinista indossava lo smoking.
+Il volontario ha portato l' ascia.
+Il volontario ha portato il cibo.
+Il cameriere ha portato la chitarra.
+Il cameriere ha portato il bicchiere.
+Il cameriere portava il fucile.
+Il cameriere portava il vassoio.
+Il cameriere ha tolto la strada.
+Il cameriere ha lasciato il bar.
+Il cameriere ha lasciato la metropolitana.
+Il cameriere ha ripulito il tavolo.
+Il cameriere ha tagliato i capelli.
+Il cameriere ha tagliato la torta.
+Il cameriere ha pronunciato il discorso.
+Il cameriere ha consegnato il drink.
+Il cameriere ha portato la palla.
+Il cameriere ha portato l' acqua.
+Il cameriere teneva la bandiera.
+Il cameriere teneva la bottiglia.
+Il cameriere ha mescolato il cemento.
+Il cameriere ha mescolato il drink.
+Il cameriere ha aperto il sarcofago.
+Il cameriere ha aperto la bottiglia.
+Il cameriere ha versato la benzina.
+Il cameriere ha versato il vino.
+Il cameriere ha preparato la bomba.
+Il cameriere preparò il drink.
+Il testimone ha spiegato l' equazione.
+Il testimone ha spiegato le circostanze.
+Il testimone ha riferito la nascita.
+Il testimone ha denunciato il crimine.
+La donna portava la pietra.
+La donna portava la borsa.
+La donna ha aperto il tubo.
+La donna aprì la borsa.
+La donna ha dipinto il cartello.
+La donna ha dipinto l' unghia del piede.

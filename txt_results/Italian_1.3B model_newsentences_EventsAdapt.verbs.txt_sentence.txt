@@ -1,0 +1,1648 @@
+Il Raider ha preso la malattia.
+La malattia ha colpito il Raider.
+La malattia è stata contagiata dal Raider.
+Il Raider è stato colpito dalla malattia.
+Il predatore ha contratto la malattia.
+La malattia ha contratto il predatore.
+La malattia è stata contratta dal predatore.
+Il predatore si e'infettato dalla malattia.
+Il detenuto temeva la prigione.
+La prigione temeva il detenuto.
+La prigione era temuta dal detenuto.
+Il detenuto era temuto dalla prigione.
+Il criminale temeva la prigione.
+La prigione temeva il criminale.
+Il criminale temeva la prigione.
+Il criminale era temuto dalla prigione.
+La prostituta ha sprecato i soldi.
+Il denaro ha sprecato la prostituta.
+Il denaro e'stato sprecato dalla prostituta.
+La prostituta ha sprecato i soldi.
+La ragazza di chiamata ha sprecato i soldi.
+I soldi hanno sprecato la ragazza di chiamata.
+I soldi sono stati sprecati dalla call girl.
+La ragazza di chiamata si e'sprecata per i soldi.
+L' avventuriero ha chiesto la bevanda.
+La bevanda richiedeva l' avventuriero.
+La bevanda è stata richiesta dall' avventuriero.
+L' avventuriero è stato richiesto dalla bevanda.
+Il pompiere ha preparato il funerale.
+Il funerale ha preparato il pompiere.
+Il funerale è stato preparato dal condottiero.
+Il pompiere era pronto per il funerale.
+Il pompiere ha organizzato la sepoltura.
+L' omicidio e'stato organizzato dal pompiere.
+La sepoltura e'stata organizzata dal pompiere.
+Il pompiere e'stato organizzato dalla sepoltura.
+Il supervisore ha fornito l' alcol.
+L' alcol era fornito dal supervisore.
+L' alcol era fornito dal supervisore.
+Il supervisore era stato fornito dall' alcol.
+Il sorvegliante ha fornito l' alcol.
+L' alcol era fornito dal sorvegliante.
+L' alcol era fornito dal supervisore.
+Il sorvegliante era stato fornito dall' alcol.
+Il provocatore ha fatto schiantare l' auto.
+L' auto ha investito il rompiscatole.
+L' auto e'stata investita dal provocatore.
+Il provocatore di problemi e'stato investito dalla macchina.
+Il teppista ha distrutto il veicolo.
+Il veicolo ha distrutto il teppista.
+Il veicolo è stato distrutto dal teppista.
+Il teppista è stato investito dal veicolo.
+Il riparatore ha riparato il rubinetto.
+Il rubinetto ha riparato il riparatore.
+Il rubinetto è stato riparato dal riparatore.
+Il riparatore l' ha riparata col rubinetto.
+Il falegname ha riparato il rubinetto.
+Il rubinetto ha riparato il falegname.
+Il rubinetto è stato riparato dal falegname.
+Il manuale è stato riparato dal rubinetto.
+La segretaria ha organizzato la scrivania.
+La scrivania ha organizzato la segretaria.
+La scrivania era organizzata dalla segretaria.
+La segretaria era organizzata dalla scrivania.
+La receptionist ha sistemato il tavolo.
+Il tavolo ha ripulito la receptionist.
+La receptionist ha sistemato il tavolo.
+La receptionist ha ripulito il tavolo.
+Il pilota ha diretto l' aereo.
+L' aereo guidava il pilota.
+L' aereo era diretto dal pilota.
+Il pilota era guidato dall' aereo.
+L' aviatore ha manovrato il jet.
+Il jet ha manovrato l' aviatore.
+Il jet era manovrato dall' aviatore.
+L' aviatore è stato manovrato dal jet.
+Lo chef ha saltato il calamaro.
+Il calamaro ha saluto lo chef.
+Il calamaro è stato saluto dallo chef.
+Lo chef è stato saluto dal calamaro.
+La cuoca ha arrostito il polpo.
+Il polpo ha alla griglia il cuoco.
+Il polpo è stato grigliato dal cuoco.
+Il cuoco è stato grattato dal polpo.
+Il capitano della nave prometteva il trionfo.
+Il trionfo promesso al capitano della nave.
+Il trionfo era stato promesso dal capitano della nave.
+Il capitano della nave era stato promesso dal trionfo.
+Il capitano ha garantito la vittoria.
+La vittoria garantì il capitano.
+La vittoria era garantita dal capitano.
+Il capitano era garantito dalla vittoria.
+Il modello ha decorato il fedora.
+Il fedora adornava il modello.
+Il fedora era adornato dal modello.
+Il modello era adornato dalla fedora.
+Il cappellino ha decorato il bowler.
+Il bowler ha decorato il cappello.
+Il bowler era decorato dal cappellino.
+Il cappello era stato decorato dal bowler.
+Il soldato ha issato la bandiera.
+La bandiera ha issato il soldato.
+La bandiera è stata issata dal soldato.
+Il soldato è stato issato dalla bandiera.
+Il soldato alzò lo stendardo.
+Lo stendardo sollevava il soldato.
+La bandiera è stata sollevata dal soldato.
+Il soldato era stato sollevato dalla bandiera.
+L' agente ha fallito la missione.
+La missione ha fallito per l' agente.
+La missione è stata fallita dall' agente.
+L' agente e'stato deluso dalla missione.
+L' agente ha rovinato l' incarico.
+L' incarico ha fatto saltare l' agente.
+L' incarico e'stato rovinato dall' agente.
+L' agente e'stato colpito dall' incarico.
+L' anchorman ha distorciuto l' espressione.
+L' espressione ha confuso l' anchorman.
+L' espressione e'stata alterata dall' anchorman.
+L' anchorman era confuso dall' espressione.
+L' annunciatore ha pronunciato male la parola.
+La parola è stata pronunciata male dall' annunciatore.
+La parola è stata pronunciata male dall' annunciatore.
+L' annunciatore ha sbagliato la pronuncia.
+L' autore ha finito il romanzo.
+Il romanzo ha finito l' autore.
+Il romanzo era finito dall' autore.
+L' autore aveva finito il romanzo.
+Lo scrittore ha completato il libro.
+Il libro ha completato lo scrittore.
+Il libro è stato completato dallo scrittore.
+Lo scrittore era stato completato dal libro.
+Il finanziere ha sponsorizzato il progetto.
+Il progetto è stato sponsorizzato dal finanziatore.
+Il progetto è stato sponsorizzato dal finanziatore.
+Il finanziatore era sponsorizzato dal progetto.
+Il banchiere ha finanziato il programma.
+Il programma ha finanziato il banchiere.
+Il programma e'stato finanziato dal banchiere.
+Il banchiere e'stato finanziato dal programma.
+Il turista è sceso dall' autobus.
+L' autobus è uscito dal turista.
+L' autobus è stato scaricato dal turista.
+Il turista è stato scaricato dall' autobus.
+Il turista ha lasciato la navetta.
+La navetta ha lasciato il turista.
+La navetta e'stata lasciata dal turista.
+Il turista e'stato lasciato dalla navetta.
+La dietista detestava la marmellata.
+La marmellata detestava la dietista.
+La marmellata era odiata dalla dietista.
+La dietista odiava la marmellata.
+Il nutrizionista detestava la marmellata.
+La marmellata detestava il nutrizionista.
+La marmellata era detestabile per il nutrizionista.
+Il nutrizionista detestava la marmellata.
+Lo scienziato ha scoperto la cura.
+La cura è stata scoperta dallo scienziato.
+La cura è stata scoperta dallo scienziato.
+Lo scienziato è stato scoperto dalla cura.
+Il ricercatore ha trovato il rimedio.
+Il rimedio ha trovato il ricercatore.
+Il rimedio è stato trovato dal ricercatore.
+Il ricercatore è stato trovato dal rimedio.
+Il dottore ha chiuso la scuola.
+La scuola ha chiuso il medico.
+La scuola è stata chiusa dal dottore.
+Il dottore era chiuso dalla scuola.
+La cameriera ha sollevato il cuscino.
+Il cuscino ha sollevato la cameriera.
+Il cuscino è stato sollevato dalla cameriera.
+La cameriera è stata sollevata dal cuscino.
+Il designer ha suggerito le tende.
+Le tende suggeriscono il designer.
+Le tende sono state suggerite dal designer.
+Il designer è stato suggerito dalle tende.
+Il decoratore mi ha raccomandato le tende.
+Le tende mi hanno raccomandato il decoratore.
+Le tende sono state raccomandate dal decoratore.
+Il decoratore è stato consigliato dalle tende.
+Il costruttore ha lavato i pantaloni.
+I pantaloni hanno lavato il costruttore.
+I pantaloni sono stati lavati dal costruttore.
+Il costruttore è stato lavato dai pantaloni.
+L' appaltatore ha lavato i pantaloni.
+I pantaloni hanno lavato l' appaltatore.
+I pantaloni sono stati lavati dall' appaltatore.
+L' appaltatore è stato lavato dai pantaloni.
+La domestica ha pulito il lavandino.
+Il lavandino ha pulito il domestico.
+Il lavandino e'stato pulito dal domestico.
+Il domestico e'stato asciugato dal lavandino.
+La domestica ha pulito il lavandino.
+Il lavandino pulisce la casa.
+Il lavandino e'stato pulito dalla domestica.
+La casa era pulita dal lavandino.
+L' amico si è messo il maglione.
+Il maglione ha messo l' amico.
+Il maglione era indossato dall' amico.
+L' amico era vestito dal maglione.
+Il convalescente ha preso la pillola.
+La pillola ha preso il convalescente.
+La pillola è stata presa dal convalescente.
+Il convalescente è stato preso dalla pillola.
+Il paziente ha ingoiato la medicina.
+La medicina ha ingoiato il paziente.
+La medicina è stata ingerita dal paziente.
+Il paziente è stato ingerito dalla medicina.
+L' accumulatore ha nascosto la scorta.
+La scorta ha nascosto l' accumulatore.
+Il nascondiglio era nascosto dall' accumulatore.
+L' accumulatore era nascosto vicino al magazzino.
+Il pacchetto ha nascosto il magazzino.
+Il magazzino nascondeva il pacchetto.
+Il magazzino era nascosto dal pacchetto.
+Il pacchetto era nascosto dalla scorta.
+Il giornalista ha abbandonato la storia.
+La storia ha abbandonato il giornalista.
+La storia e'stata abbandonata dal giornalista.
+Il giornalista è stato abbandonato dalla storia.
+Il giornalista ha buttato via l' articolo.
+L' articolo ha abbandonato il giornalista.
+L' articolo e'stato buttato via dal giornalista.
+Il giornalista è stato abbandonato dall' articolo.
+Il carnivoro ha mangiato la bistecca.
+La bistecca ha mangiato il carnivoro.
+La bistecca è stata mangiata dal carnivoro.
+Il carnivoro è stato mangiato dalla bistecca.
+Il carnivore ha divorato il filetto.
+Il filetto ha divorato il mangiatore di carne.
+Il filetto è stato divorato dal carnivore.
+Il carnivore fu divorato dal filetto.
+L' uomo ha bevuto la bibita.
+La soda ha bevuto l' uomo.
+La bibita era bevuta dall' uomo.
+L' uomo era ubriaco dalla bibita.
+L' insegnante ha comprato il portatile.
+Il portatile ha comprato l' insegnante.
+Il portatile è stato comprato dall' insegnante.
+L' insegnante e'stato comprato dal portatile.
+L' istruttore ha comprato il computer.
+Il computer ha comprato l' istruttore.
+Il computer è stato acquistato dall' istruttore.
+L' istruttore è stato comprato dal computer.
+La signora ha cucinato la cena.
+La cena è stata cucinata dalla signora.
+La cena è stata cucinata dalla signora.
+La signora è stata cucinata dalla cena.
+La donna ha preparato la cena.
+La cena ha preparato la donna.
+La cena è stata preparata dalla donna.
+La donna era preparata per la cena.
+Il viaggiatore ha perso il souvenir.
+Il souvenir ha perso il viaggiatore.
+Il souvenir è stato perso dal viaggiatore.
+Il viaggiatore si è perso per il souvenir.
+Il veggente ha perso il souvenir.
+Il ricordo ha perso il veggente.
+Il souvenir è stato smarrito dal veggente.
+Il veggente si è perso per il ricordo.
+L' attore comico ha confermato l' itinerario.
+L' itinerario conferma l' attore.
+L' itinerario è stato confermato dal comico.
+Il comico è stato confermato dall' itinerario.
+L' umorista ha verificato l' orario.
+L' orario conferma l' umorista.
+L' orario e'stato verificato dall' umorista.
+L' umorista è stato verificato dal programma.
+Il falegname ha sfogliato la brochure.
+Il foglio ha sfogliato il falegname.
+Il brochurale è stato sfogliato dal falegname.
+Il falegname era stato sballato dalla brochure.
+La guida ha raggiunto il bersaglio.
+L' obiettivo ha raggiunto la guida.
+La guida ha raggiunto l' obiettivo.
+La guida è stata raggiunta dal bersaglio.
+Il cittadino coltivava il grano.
+Il grano coltivava il cittadino.
+Il grano era coltivato dal cittadino.
+Il cittadino era coltivato dal grano.
+Il contadino coltivava il raccolto.
+Il raccolto coltivava il contadino.
+Il raccolto era coltivato dal contadino.
+Il contadino era coltivato dal raccolto.
+Il mentore ha rivisto il manoscritto.
+Il manoscritto ha rivisto il mentore.
+Il manoscritto e'stato rivisto dal mentore.
+Il mentore è stato rivisto dal manoscritto.
+Il consulente ha curato il giornale.
+Il giornale ha pubblicato il consulente.
+Il giornale è stato redatto dal consulente.
+Il consulente era stato redatto dal giornale.
+Il contabile ha fatto il grafico.
+Il grafico ha fatto il contabile.
+Il grafico è stato fatto dal contabile.
+Il contabile è stato creato dal grafico.
+Il contabile ha creato il grafico.
+Il grafico ha creato il contabile.
+Il grafico e'stato creato dal contabile.
+Il contabile e'stato creato dal grafico.
+Il taglialegna ha abbattuto il pino.
+Il pino ha abbattuto il taglialegna.
+Il pino è stato abbattuto dal taglialegna.
+Il taglialegna è stato abbattuto dal pino.
+Il magnate dirigeva l' azienda.
+La compagnia gestisce il magnate.
+L' azienda era gestita dal magnate.
+Il magnate era gestito dalla compagnia.
+Il magnate governava la società.
+La società governava il magnate.
+La società era governata dal magnate.
+Il magnate era governato dalla società.
+Il militante ha influenzato il voto.
+Il voto ha biasimato il candidato.
+Il voto e'stato biasimato dal militante.
+Il militante era biasato dal voto.
+L' attivista ha pregiudicato il voto.
+Il voto ha pregiudicato l' attivista.
+Il voto è stato pregiudicato dall' attivista.
+L' attivista era pregiudicato dal voto.
+L' assistente ha tirato fuori la valigia.
+La valigia ha tirato fuori l' assistente.
+La valigia è stata tirata fuori dall' assistente.
+L' assistente è stata tirata dalla valigia.
+L' assistente di volo ha trascinato i bagagli.
+Il bagaglio ha trascinato l' assistente di volo.
+Il bagaglio è stato trascinato dall' assistente di volo.
+L' assistente di volo è stata trascinata dai bagagli.
+Il deputato ha pronunciato il discorso.
+Il discorso è stato pronunciato dal deputato.
+Il discorso è stato pronunciato dal deputato.
+Il deputato è stato consegnato dal discorso.
+Il rappresentante ha dato l' indirizzo.
+L' indirizzo è quello del rappresentante.
+L' indirizzo è stato dato dal rappresentante.
+Il rappresentante è stato dato dall' indirizzo.
+Lo sceriffo ha ispezionato la tenuta.
+La tenuta ha ispezionato lo sceriffo.
+La tenuta e'stata ispezionata dallo sceriffo.
+Lo sceriffo è stato ispezionato dalla tenuta.
+Il poliziotto ha esaminato la proprietà.
+La proprietà ha esaminato l' agente.
+La proprietà è stata ispezionata dal poliziotto.
+L' agente è stato esaminato dalla proprietà.
+La celebrità ha firmato la fotografia.
+La fotografia ha firmato la celebrità.
+La fotografia è stata firmata dalla celebrità.
+La celebrità ha firmato con la fotografia.
+La star ha firmato la foto.
+La foto era autografata dalla star.
+La foto era autografata dalla star.
+La stella aveva un autografo sulla foto.
+La tata ha insegnato al ragazzo.
+Il ragazzo ha insegnato alla tata.
+Il ragazzo era stato insegnato dalla tata.
+La tata era stata istruita dal ragazzo.
+La governante ha istruito il ragazzo.
+Il ragazzo ha istruito la governante.
+Il ragazzo ha ricevuto istruzioni dalla governante.
+La governante ricevette istruzioni dal ragazzo.
+Il ricattatore ha minacciato il senatore.
+Il senatore ha minacciato il ricattatore.
+Il senatore e'stato minacciato dal ricattatore.
+Il ricattatore e'stato minacciato dal senatore.
+L' estorsionista minacciava il legislatore.
+Il legislatore minacciò l' estorsionista.
+Il legislatore è stato minacciato dall' estorsionista.
+Il ricattatore è stato minacciato dal legislatore.
+L' artista ha ritratto il filosofo.
+Il filosofo ha ritratto l' artista.
+Il filosofo è stato ritratto dall' artista.
+L' artista è stato ritratto dal filosofo.
+Il pittore dipingeva il pensatore.
+Il pensatore dipinse il pittore.
+Il pensatore è stato raffigurato dal pittore.
+Il pittore è stato raffigurato dal pensatore.
+Il meccanico ha rimproverato il tirocinante.
+L' interno ha rimproverato il meccanico.
+Il tirocinante e'stato rimproverato dal meccanico.
+Il meccanico e'stato rimproverato dal tirocinante.
+Il tecnico ha rimproverato l' assistente.
+L' assistente rimproverò il tecnico.
+L' assistente è stato rimproverato dal tecnico.
+Il tecnico è stato rimproverato dall' assistente.
+La fata incantò il troll.
+Il troll ha incantato la fata.
+Il troll era incantato dalla fata.
+La fata era incantata dal troll.
+La fatina ha ipnotizzato l' orco.
+L' orco ha ipnotizzato la fatina.
+L' orco era ipnotizzato dalla fatina.
+La fatina era ipnotizzata dall' orco.
+L' infermiere ha aiutato il dentista.
+Il dentista ha aiutato l' infermiere.
+Il dentista era assistito dall' infermiere.
+L' infermiere era assistito dal dentista.
+L' infermiera ha aiutato l' ortodontista.
+L' ortodontista ha aiutato l' infermiera.
+L' ortodontista è stato aiutato dall' infermiera.
+L' infermiera è stata aiutata dall' ortodontista.
+Il proprietario ha sfrattato l' inquilino.
+L' inquilino ha sfrattato il proprietario.
+L' inquilino e'stato sfrattato dal proprietario.
+Il proprietario e'stato sfrattato dall' inquilino.
+Il critico ha attaccato il conservatore.
+Il conservatore ha attaccato il critico.
+Il conservatore è stato attaccato dal critico.
+Il critico è stato attaccato dal conservatore.
+Il critico ha criticato l' ala destra.
+Il di destra ha criticato il critico.
+Il destro è stato criticato dal critico.
+Il critico è stato criticato dal destro.
+L' ammiratore ha tormentato il regista.
+Il regista ha tormentato l' ammiratore.
+Il regista è stato tormentato dall' ammiratore.
+L' ammiratore è stato tormentato dal regista.
+Il fan ha tormentato il regista.
+Il regista ha infastidito il fan.
+Il regista era stato tormentato dal fan.
+Il fan è stato tormentato dal regista.
+Il paramedico ha rianimato il giovane.
+Il giovane ha rianimato il paramedico.
+Il giovane è stato rianimato dal paramedico.
+Il paramedico è stato rianimato dal giovane.
+Il pronto soccorso ha rianimato il ragazzo.
+Il ragazzo ha rianimato il paramedico.
+Il ragazzo e'stato rianimato dal pronto soccorso.
+Il medico è stato rianimato dal giovane.
+Il burlone ha ingannato il venditore.
+Il venditore ha ingannato il burlone.
+Il venditore è stato ingannato dal burlone.
+Il burlone è stato ingannato dal venditore.
+Il buffone ha ingannato il distributore.
+Il distributore ha ingannato il buffone.
+Il distributore è stato ingannato dal buffone.
+Il buffone è stato ingannato dal distributore.
+Il playboy ha corteggiato la fanciulla.
+La fanciulla ha corteggiato il playboy.
+La fanciulla era corteggiata dal playboy.
+Il playboy era corteggiato dalla fanciulla.
+Il donnaiolo ha corteggiato la fanciulla.
+La fanciulla ha corteggiato il donnaiolo.
+La fanciulla fu corteggiata dal donnaiolo.
+Il donnaiolo fu corteggiato dalla fanciulla.
+Il nomade amava il prete.
+Il prete amava il nomade.
+Il prete era molto amato dai nomadi.
+Il nomade era amato dal sacerdote.
+Il vagabondo venerava il prete.
+Il prete venerava il vagabondo.
+Il prete era venerato dal vagabondo.
+Il vagabondo era venerato dal prete.
+L' assassino ha sparato allo statista.
+L' uomo di stato ha sparato all' assassino.
+L' uomo di stato è stato ucciso dall' assassino.
+L' assassino è stato ucciso dallo statista.
+Il sicario ha ucciso il politico.
+Il politico ha ucciso il sicario.
+Il politico e'stato ucciso dal sicario.
+Il sicario è stato ucciso dal politico.
+Il commesso ha accusato l' anziana.
+L' anziana ha accusato il commesso.
+L' anziana è stata accusata dal cancelliere.
+Il commesso è stato accusato dalla persona anziana.
+La cassiera ha fatturato l' anziano.
+L' anziano ha fatturato alla cassa.
+L' anziano è stato fatturato dalla cassa.
+La cassiera e'stata fatturata dalla persona anziana.
+Il mediatore ha salvato l' ostaggio.
+L' ostaggio ha salvato il mediatore.
+L' ostaggio è stato salvato dal mediatore.
+Il mediatore è stato salvato dall' ostaggio.
+Il negoziatore ha salvato il prigioniero.
+Il prigioniero ha salvato il negoziatore.
+Il prigioniero è stato salvato dal negoziatore.
+Il negoziatore è stato salvato dal prigioniero.
+Il detective ha trovato l' aggressore.
+L' assalitore ha trovato il detective.
+L' aggressore è stato trovato dal detective.
+Il detective e'stato trovato dall' aggressore.
+L' investigatore ha localizzato l' aggressore.
+L' aggressore ha localizzato l' investigatore.
+L' aggressore e'stato individuato dall' investigatore.
+L' investigatore e'stato individuato dall' aggressore.
+L' artigiano addestrava l' apprendista.
+L' apprendista addestrava l' artigiano.
+L' apprendista era addestrato dall' artigiano.
+L' artigiano era addestrato dall' apprendista.
+L' artigiano ha insegnato al tirocinante.
+Il tirocinante ha insegnato all' artigiano.
+Il tirocinante era stato insegnato dall' artigiano.
+L' artigiano era stato insegnato dal tirocinante.
+Il motociclista ha sfidato l' allenatore.
+L' allenatore ha sfidato il motociclista.
+L' allenatore e'stato sfidato dal motociclista.
+Il motociclista e'stato sfidato dall' allenatore.
+Il ciclista ha disobbedito alla carrozza.
+L' allenatore ha disobbedito al ciclista.
+Il ciclista ha disobbedito all' allenatore.
+Il ciclista è stato disobbedito dall' allenatore.
+L' oratore ha assorbito l' ascolto.
+Il pubblico era assorbito dall' oratore.
+Il pubblico era assorbito dallo speaker.
+L' oratore era assorbito dal pubblico.
+L' oratore ha affascinato gli spettatori.
+Gli spettatori hanno affascinato l' oratore.
+Gli spettatori erano affascinati dall' oratore.
+L' oratore era affascinato dagli spettatori.
+Il genio ha scioccato il cugino.
+Il cugino ha scioccato il genio.
+Il cugino è rimasto scioccato dal genio.
+Il genio fu scioccato dal cugino.
+Il prodigio sorprese il parente.
+Il parente ha sorpreso il prodigio.
+Il parente fu sorpreso dal prodigio.
+Il prodigio fu sorpreso dal parente.
+Il contrabbandiere ha corrotto il burocrate.
+Il burocrate ha corrotto il contrabbandiere.
+Il burocrate è stato corrotto dal contrabbandiere.
+Il contrabbandiere è stato corrotto dal burocrate.
+L' amatoriale ha infastidito il maestro.
+Il maestro ha infastidito l' amatore.
+Il maestro era infastidito dall' amatore.
+L' amatoriale era infastidito dal maestro.
+Il novellino ha irritato il virtuoso.
+Il virtuoso ha irritato il novizio.
+Il virtuoso era irritato dal principiante.
+Il novellino era irritato dal virtuoso.
+L' avvocato ha interrogato il testimone.
+Il testimone ha interrogato l' avvocato.
+Il testimone è stato interrogato dall' avvocato.
+L' avvocato è stato interrogato dal testimone.
+L' avvocato ha interrogato il testimone.
+Il testimone ha interrogato l' avvocato.
+Il testimone e'stato interrogato dall' avvocato.
+L' avvocato è stato interrogato da un testimone.
+Il cantante delude l' appassionato.
+L' appassionato delude il cantante.
+L' appassionato fu deluso dal cantante.
+Il cantante era deluso dall' appassionato.
+Il cantante ha deluso il conoscitore.
+Il conoscitore delusi il cantante.
+Il conoscitore era deluso dal cantante.
+Il cantante era deluso dal conoscitore.
+L' autista ha portato il diplomatico.
+Il diplomatico ha portato l' autista.
+Il diplomatico era guidato dall' autista.
+L' autista era guidato dal diplomatico.
+L' autista ha trasportato l' ambasciatore.
+L' ambasciatore ha trasportato il conducente.
+L' ambasciatore è stato trasportato dal conducente.
+Il conducente è stato trasportato dall' ambasciatore.
+La guardia ha arrestato il prigioniero.
+Il prigioniero ha arrestato la guardia.
+Il prigioniero è stato arrestato dalla guardia.
+La guardia è stata arrestata dal prigioniero.
+Il direttore ha preso il detenuto.
+Il detenuto ha preso il direttore.
+Il detenuto è stato catturato dal direttore.
+Il direttore è stato preso dal detenuto.
+Il sarto ha vestito la ballerina.
+La ballerina si travestì come il sarto.
+La ballerina era vestita dal sarto.
+Il sarto era vestito dalla ballerina.
+La sarta ha vestito la ballerina.
+La ballerina ha vestito la sarta.
+La ballerina era vestita dalla sarta.
+La sarta era vestita dalla ballerina.
+Il preside ha rimproverato il bambino.
+Il bambino ha rimproverato il preside.
+Il bambino è stato rimproverato dal preside.
+Il preside è stato rimproverato dal bambino.
+Il preside ha rimproverato il ragazzo.
+Il ragazzo ha rimproverato il preside.
+Il ragazzo è stato rimproverato dal preside.
+Il preside è stato rimproverato dal ragazzo.
+Il signore ha nominato l' erede.
+L' erede ha nominato il signore.
+L' erede è stato nominato dal signore.
+Il signore fu nominato dall' erede.
+Il barone ha scelto il suo successore.
+Il successore ha scelto il barone.
+Il successore fu scelto dal barone.
+Il barone fu scelto dal successore.
+Il poliziotto ha trattenuto il rivoltosi.
+Il ribelle ha trattenuto il poliziotto.
+Il rivoltosi e'stato trattenuto dal poliziotto.
+Il poliziotto e'stato trattenuto dal ribelle.
+Il poliziotto ha messo a tacere il ribelle.
+Il ribelle ha messo sotto controllo il poliziotto.
+Il ribelle è stato messo sotto controllo dal poliziotto.
+Il poliziotto è stato messo sotto controllo dal sollevatore di tumulto.
+Il padre ha coccolato il bambino.
+Il bambino ha coccolato il padre.
+Il bambino era stato coccolato dal padre.
+Il padre era coccolato dal bambino.
+Il padre coccolava il bambino.
+Il bambino coccolava il padre.
+Il bambino era coccolato dal padre.
+Il padre era coccolato dal bambino.
+Il re esiliò il ribelle.
+Il ribelle esiliò il re.
+Il ribelle fu esiliato dal re.
+Il re fu esiliato dai ribelli.
+Il monarca bandì l' insurrezione.
+L' insurrezione ha bandito il monarca.
+L' insurrezione fu bandita dal monarca.
+Il monarca fu bandito dagli insorti.
+Il ladro ha derubato il produttore.
+Il produttore ha derubato il ladro.
+Il fabbricante è stato derubato dal ladro.
+Il ladro è stato derubato dal produttore.
+Il ladro ha rapinato l' industriale.
+L' industriale ha derubato il ladro.
+L' industriale è stato derubato dal ladro.
+Il ladro è stato derubato dall' industriale.
+Il pessimista scoraggiò il concorrente.
+Il concorrente scoraggiò il pessimista.
+Il concorrente fu scoraggiato dal pessimista.
+Il pessimista fu scoraggiato dal concorrente.
+Il cinico ha dissuaso il partecipante.
+Il partecipante ha dissuaso il cinico.
+Il partecipante è stato dissuaso dal cinico.
+Il cinico fu dissuaso dal partecipante.
+La bocca grossa tormentava il solitario.
+Il solitario tormentava il boccone.
+Il solitario era tormentato dalla bocca alta.
+Il boccone era tormentato dal solitario.
+Il vento ha preso in giro il recluso.
+Il recluso si prendeva gioco del vento.
+Il recluso era preso in giro dal vento.
+Il vento era preso in giro dal recluso.
+L' imitatore ha ingannato l' investigatore.
+L' investigatore ha ingannato l' imitatore.
+L' investigatore è stato ingannato dall' imitatore.
+L' imitatore è stato ingannato dall' investigatore.
+L' impersonatore ha ingannato l' ispettore.
+L' ispettore ha ingannato l' impersonatore.
+L' ispettore è stato ingannato dall' impersonatore.
+L' impersonatore è stato ingannato dall' ispettore.
+Il capo ha licenziato l' operaio.
+L' operaio ha licenziato il capo.
+L' operaio è stato licenziato dal capo.
+Il capo e'stato licenziato dall' operaio.
+Il piromane ha fatto impazzire il negoziante.
+Il negoziante ha fatto impazzire il piromane.
+Il negoziante era nervoso per il piromane.
+Il piromane era nervoso per il negoziante.
+L' incendiario ha allarmato il venditore.
+Il venditore ha allarmato l' piromano.
+Il venditore e'stato allarmato dall' piromano.
+L' incendiario e'stato allarmato dal venditore.
+Il professionista ha sostenuto il principiante.
+Il principiante ha sostenuto il professionista.
+Il principiante era sostenuto dal professionista.
+Il professionista era sostenuto dal principiante.
+Il maestro incoraggiò il novellino.
+Il novellino incoraggiò il maestro.
+Il principiante fu incoraggiato dal maestro.
+Il maestro fu incoraggiato dal novellino.
+Il mago ipnotizzò la folla.
+La folla ipnotizzò il mago.
+La folla fu ipnotizzata dal mago.
+Il mago fu ipnotizzato dalla folla.
+L' illusionista ha affascinato gli spettatori.
+Gli spettatori hanno incantato l' illusionista.
+Gli spettatori erano incantati dall' illusionista.
+L' illusionista era affascinato dagli spettatori.
+L' uomo d' affari ha assunto l' esperto.
+L' esperto ha assunto l' uomo d' affari.
+L' esperto era impiegato dall' uomo d' affari.
+L' uomo d' affari era impiegato dall' esperto.
+L' imprenditore ha assunto lo specialista.
+Lo specialista ha assunto l' imprenditore.
+Lo specialista è stato assunto dall' imprenditore.
+L' imprenditore è stato assunto dallo specialista.
+Il terrorista ha pietrificato la First Lady.
+La First Lady ha pietrificato il terrorista.
+La First Lady era pietrificata dal terrorista.
+Il terrorista era pietrificato dalla First Lady.
+Il dirottatore terrorizzò la moglie del Presidente.
+La moglie del Presidente terrorizzò il dirottatore.
+La moglie del Presidente era terrorizzata dal dirottatore.
+Il dirottatore era terrorizzato dalla moglie del Presidente.
+Il giudice ha lodato il medaglia d' oro.
+Il medaglia d' oro ha lodato il giudice.
+Il medaglia d' oro è stato lodato dal giudice.
+Il giudice è stato lodato dal medaglia d' oro.
+Il panelista ha congratulato il vincitore.
+Il vincitore ha congratulato il panelista.
+Il vincitore è stato congratulato dai panelisti.
+Il panelista è stato congratulato dal vincitore.
+Il bugiardo ha emulato il vincitore.
+Il vincitore emulava il bugiardo.
+Il vincitore fu emulato dal bugiardo.
+Il bugiardo fu emulato dal vincitore.
+L' ingannatore imitava il conquistatore.
+Il conquistatore imitava il traditore.
+Il conquistatore era imitato dal traditore.
+Il traditore fu imitato dal conquistatore.
+L' ambientalista ha avvertito il tabacchista.
+Il tabacchista ha avvertito l' ambientalista.
+Il tabacchista è stato avvertito dall' ambientalista.
+L' ambientalista è stato avvertito dal tabacchista.
+L' ecologista ha avvertito il fumatore.
+Il sigaro ha avvertito l' ecologista.
+L' ecologista ha avvertito il sigaro.
+L' ecologista è stato avvertito dal produttore di sigari.
+Il contadino adorava gli antenati.
+Gli antenati idolatrasero il contadino.
+Gli antenati erano idolatrati dai contadini.
+Il contadino era idolatrato dagli antenati.
+Il servo adorava gli antenati.
+I nostri antenati adoravano i servi.
+Gli antenati erano venerati dai servi.
+Il servo era adorato dagli antenati.
+L' alcolista ha tormentato l' ospite.
+L' ospite ha tormentato l' alcolista.
+L' ospite è stato molestato dall' alcolista.
+L' alcolista è stato molestato dall' ospite.
+L' ubriaco ha disturbato il visitatore.
+Il visitatore ha disturbato l' ubriaco.
+Il visitatore era stato disturbato dall' ubriaco.
+L' ubriaco era infastidito dal visitatore.
+Il commentatore ha infastidito l' atleta.
+L' atleta ha infastidito il commentatore.
+L' atleta era infastidito dal commentatore.
+Il commentatore era infastidito dall' atleta.
+Il giornalista sportivo ha fatto incazzare l' atleta.
+L' atleta ha fatto incazzare il giornalista sportivo.
+L' atleta e'stato incazzato dal giornalista sportivo.
+Il giornalista sportivo era incazzato dall' atleta.
+Il prete abbracciò il frequentatore della chiesa.
+Il frequentatore abbraccia il predicatore.
+Il pastore abbracciava il pastore.
+Il predicatore fu abbracciato dal frequentatore della chiesa.
+Il pastore abbracciò il parroco.
+Il parroco abbraccia il pastore.
+Il parroco fu abbracciato dal pastore.
+Il pastore fu abbracciato dal parroco.
+Il maniaco ha preso in giro il clown.
+Il pagliaccio ha preso in giro il maniaco.
+Il clown è stato preso in giro dal maniaco.
+Il maniaco è stato preso in giro dal clown.
+Il pazzo ha preso in giro il buffone.
+Il buffone ha ridicolizzato il pazzo.
+Il buffone è stato ridicolizzato dal pazzo.
+Il pazzo è stato ridicolizzato dal buffone.
+L' archivista ha contattato l' inventore.
+L' inventore ha contattato l' archivista.
+L' inventore è stato contattato dall' archivista.
+L' archivista e'stato contattato dall' inventore.
+Lo storico si avvicinò all' innovatore.
+L' innovatore si avvicinò allo storico.
+L' innovatore fu avvicinato dallo storico.
+Lo storico è stato avvicinato dall' innovatore.
+Il custode ha chiamato il paesaggista.
+Il giardiniere ha chiamato il custode.
+Il giardiniere è stato chiamato dal custode.
+Il custode è stato chiamato dal paesaggista.
+Il custode ha chiamato il giardiniere.
+Il giardiniere ha chiamato il custode.
+Il giardiniere è stato chiamato dal custode.
+Il custode è stato chiamato dal giardiniere.
+Il batterista ha infastidito il meteorologo.
+Il meteorologo ha infastidito il batterista.
+Il meteorologo era infastidito dal batterista.
+Il batterista era infastidito dal meteorologo.
+Il percussionista ha scontentato il meteorologo.
+Il meteorologo ha scontentato il percussionista.
+Il meteorologo era dispiaciuto per il percussionista.
+Il percussionista era scontente del meteorologo.
+L' intermediario ha sminuito l' imputato.
+L' imputata ha sminuito il mediatore.
+L' imputato e'stato sminuito dall' intermediario.
+L' intermediario e'stato sminuito dall' imputato.
+L' intermediario ha deprecato il criminale.
+Il criminale ha deprecato l' intermediario.
+Il criminale e'stato deprecato dall' intermediario.
+L' intermediario e'stato deprecato dal criminale.
+Il cameriere ha ospitato l' inviato.
+L' inviato ha intrattenuto il cameriere.
+L' inviato fu intrattenuto dal cameriere.
+Il cameriere era ospitato dall' inviato.
+Il servo divertì l' emissario.
+L' emissario divertì il servo.
+L' emissario si divertì con il servo.
+Il servitore si divertì con l' emissario.
+L' acrobata spinse lo sconosciuto.
+Lo sconosciuto spinse l' acrobata.
+Lo sconosciuto è stato spinto dall' acrobata.
+L' acrobata è stato spinto dallo sconosciuto.
+La ginnasta ha spinto l' estraneo.
+L' estraneo ha spinto la ginnasta.
+L' estraneo e'stato spinto dalla ginnasta.
+La ginnasta e'stata spinta da un estraneo.
+Il benefattore calmò l' architetto.
+L' architetto ha calmato il benefattore.
+L' architetto fu calmato dal benefattore.
+Il benefattore fu calmato dall' architetto.
+Il patrono calmò il disegnatore.
+Il disegnatore calmò il cliente.
+Il disegnatore fu calmato dal patrono.
+Il cliente si è calmato dal disegnatore.
+Il terapeuta ha lodato il parrucchiere.
+Il parrucchiere ha lodato il terapeuta.
+Il parrucchiere e'stato lodato dal terapeuta.
+Il terapeuta e'stato lodato dal parrucchiere.
+Lo psicologo ha lodato lo hairstylist.
+Lo hairstylist ha lodato lo psicologo.
+Lo hairstylist è stato lodato dallo psicologo.
+Lo psicologo è stato lodato dal parrucchiere.
+Il nobile sposò la baronessa.
+La baronessa sposò il nobile.
+La baronessa era sposata dal nobile.
+Il nobile era sposato dalla baronessa.
+L' aristocratico sposò la contessa.
+La contessa sposò l' aristocratico.
+La contessa fu sposata dall' aristocratico.
+L' aristocratico era sposato dalla contessa.
+L' attore ha placato il creditore.
+Il creditore ha placato l' attuario.
+Il creditore fu placato dall' attuario.
+L' attuario è stato placato dal creditore.
+L' analista ha sostituito l' investitore.
+L' investitore ha sostituito l' analista.
+L' investitore è stato sostituito dall' analista.
+L' analista è stato sostituito dall' investitore.
+Il marinaio spaventò il sensitivo.
+Il sensitivo spaventò il marinaio.
+Il sensitivo era spaventato dal marinaio.
+Il marinaio era spaventato dal sensitivo.
+Il marinaio spaventò la indovina.
+La indovina spaventò il marinaio.
+La indovina era spaventata dal marinaio.
+Il marinaio era spaventato dalla indovina.
+L' assistente ha lusingato l' auditor.
+Il revisore ha lusingato l' assistente.
+L' auditor era lusingato dall' assistente.
+L' assistente è stato lusingato dall' auditor.
+L' assistente ha fatto un complimento al valutatore.
+Il valutatore ha fatto un complimento all' aiutante.
+L' apprazzatore è stato complimentato dall' aiutante.
+L' appaltatore ha fatto un complimento all' aiutante.
+L' immigrato ha creduto al soldato.
+Il poliziotto ha creduto all' immigrato.
+L' immigrato ha creduto al poliziotto.
+L' immigrato è stato creduto dal soldato.
+Lo straniero si fidava del poliziotto.
+Il poliziotto si fidava dello straniero.
+Il poliziotto aveva fiducia nello straniero.
+Lo straniero aveva fiducia nel poliziotto.
+Il cartografo ha insultato il contadino.
+Il contadino ha insultato il cartografo.
+Il contadino è stato insultato dal cartografo.
+Il cartografo è stato insultato dal contadino.
+Il cartografo ha insultato il rancher.
+Il ranchero ha insultato il cartografo.
+Il rancher è stato insultato dal cartografo.
+Il cartografo è stato insultato dal rancher.
+Il poeta ha impressionato l' animatore.
+L' animatore ha impressionato il poeta.
+L' animatore era impressionato dal poeta.
+Il poeta era impressionato dall' artista.
+Il testimone ha abbagliato l' interprete.
+L' interprete ha abbagliato il testimone.
+L' interprete era abbagliato dal testimone.
+Il testimone era abbagliato dall' interprete.
+Il venditore ambulante ha testato il direttore.
+Il direttore ha testato il venditore ambulante.
+Il direttore è stato testato dal venditore ambulante.
+Il venditore ambulante è stato testato dal direttore.
+Il venditore itinerante sfidò il dirigente.
+Il dirigente sfidò il venditore ambulante.
+Il dirigente è stato sfidato dal venditore ambulante.
+Il venditore itinerante e'stato sfidato dal dirigente.
+Il musicista ammirava la diva.
+La diva ammirava il musicista.
+La diva era ammirata dal musicista.
+La diva ammirava il musicista.
+L' strumentista adorava la prima donna.
+La prima donna adorava l' strumentista.
+La prima donna era adorata dall' instrumentista.
+L' strumentista era adorato dalla prima donna.
+Il generale accolse l' eroe.
+L' eroe accolse il generale.
+L' eroe fu accolto dal generale.
+Il generale fu accolto dall' eroe.
+Il comandante ha salutato il campione.
+Il campione salutò il comandante.
+Il campione fu accolto dal comandante.
+Il comandante fu accolto dal campione.
+Il calzolaio disprezzava il muratore.
+Il muratore disprezzava il calzolaio.
+Il muratore era disprezzato dal calzolaio.
+Il calzolaio era disprezzato dal muratore.
+Il calzolaio disprezzava il muratore.
+Il muratore disprezzava il calzolaio.
+Il muratore era disprezzato dal calzolaio.
+Il calzolaio era disprezzato dal muratore.
+Il postino ha notato il cappellano.
+Il cappellano ha notato il postino.
+Il carceriere è stato notato dal postino.
+Il postino è stato notato dal cappellano.
+Il postino ha visto il ministro.
+Il ministro ha visto il postino.
+Il ministro è stato visto dal postino.
+Il postino è stato visto dal ministro.
+Il compositore aveva rancore per il drammaturgo.
+Il drammaturgo si è infuriato del compositore.
+Il drammaturgo era rancore del compositore.
+Il compositore era invidiabile dallo sceneggiatore.
+Il compositore invidiò il drammaturgo.
+Il drammaturgo invidiò il cantautore.
+Il drammaturgo era invidiato dal cantautore.
+Il cantautore era invidiato dal drammaturgo.
+Il dittatore ha fatto arrabbiare i residenti.
+I residenti hanno fatto arrabbiare il dittatore.
+I residenti erano arrabbiati con il dittatore.
+Il dittatore era arrabbiato con i residenti.
+Il despota fece infuriare la gente del paese.
+La gente del paese fece infuriare il despota.
+La gente del paese era infuriata dal despota.
+Il despota era infuriato dalla gente del paese.
+Il missionario ha sconcertato l' oracolo.
+L' oracolo ha sconcertato il missionario.
+L' oracolo era sconcertato dal missionario.
+Il missionario era sconcertato dall' oracolo.
+L' evangelista ha sconcertato il indovino.
+Il indovino ha sconcertato l' evangelista.
+Il indovino fu sconcertato dall' evangelista.
+L' evangelista fu sconcertato dal indovino.
+L' intruso ha soffocato il pugile.
+Il pugile ha soffocato l' intruso.
+Il pugile e'stato soffocato dall' intruso.
+L' intruso è stato soffocato dal pugile.
+L' intruso ha strangolato il guerriero.
+Il guerriero strangolò l' intruso.
+Il guerriero fu strangolato dall' intruso.
+L' intruso fu strangolato dal guerriero.
+Il broker ha presentato il donatore.
+Il donatore ha presentato il broker.
+Il donatore e'stato presentato dal broker.
+Il broker e'stato presentato dal donatore.
+Il distributore ha presentato lo sponsor.
+Lo sponsor ha presentato il dealer.
+Lo sponsor e'stato presentato dal dealer.
+Il distributore e'stato presentato dallo sponsor.
+Lo strizzacervelli ha lodato il preside.
+Il preside ha elogiato lo strizzacervelli.
+Il decano e'stato elogiato dallo strizzacervelli.
+Lo psichiatra e'stato elogiato dal preside.
+Lo psichiatra applaudì il preside.
+Il preside applaudì lo psichiatra.
+Il preside fu applaudito dallo psichiatra.
+Lo psichiatra è stato applaudito dal preside.
+Il rifugiato ha provocato il senzatetto.
+Il senzatetto ha provocato il rifugiato.
+Il senzatetto è stato provocato dal rifugiato.
+Il rifugiato è stato provocato dal senzatetto.
+Il richiedente asilo ha incitato il vagabondo.
+Il vagabondo ha incitato il richiedente asilo.
+Il vagabondo è stato incitato dal richiedente asilo.
+Il richiedente asilo è stato incitato dal vagabondo.
+L' interprete ha ingannato il messaggero.
+Il messaggero ha ingannato l' interprete.
+Il messaggero è stato ingannato dall' interprete.
+L' interprete è stato ingannato dal messaggero.
+Il traduttore ha ingannato il corriere.
+Il corriere ha ingannato il traduttore.
+Il corriere è stato ingannato dal traduttore.
+Il traduttore è stato ingannato dal corriere.
+Il gangster odiava il governatore.
+Il governatore odiava il gangster.
+Il governatore era odiato dal gangster.
+Il gangster era odiato dal governatore.
+Il teppista odiava il cancelliere.
+Il cancelliere odiava il teppista.
+Il cancelliere era odiato dal teppista.
+Il bandito era odiato dal cancelliere.
+Il progettista ha convinto il cliente.
+Il cliente ha convinto il progettista.
+Il cliente e'stato convinto dal progettista.
+Il progettista è stato convinto dal cliente.
+L' organizzatore ha convinto l' acquirente.
+L' acquirente ha convinto l' organizzatore.
+L' organizzatore ha convinto l' acquirente.
+L' organizzatore è stato convinto dal compratore.
+Il mago ha protetto lo gnomo.
+Lo gnomo ha protetto il mago.
+Lo gnomo era protetto dal mago.
+Il mago era protetto dallo gnomo.
+Il mago difese il nano.
+Il nano difese lo stregone.
+Il nano fu difeso dal mago.
+Il mago fu difeso dal nano.
+Lo studente ha confuso il professore.
+Il professore ha confuso lo studente.
+Il professore era confuso dallo studente.
+Lo studente era confuso dal professore.
+Lo studioso ha confuso il docente.
+Il docente ha confuso lo studioso.
+Il docente era confuso dall' studioso.
+Lo studioso era confuso dal docente.
+L' invasore ha individuato la sentinella.
+La sentinella ha individuato l' invasore.
+La sentinella è stata avvistata dall' invasore.
+L' invasore è stato avvistato dalla sentinella.
+L' intruso ha avvistato il guardiano.
+La guardia ha avvistato l' intruso.
+Il vigile è stato avvistato dall' intruso.
+L' intruso è stato avvistato dalla guardia.
+Il fornitore ha rimborsato il mercante.
+Il mercante ha rimborsato il fornitore.
+Il commerciante è stato rimborsato dal fornitore.
+Il fornitore è stato rimborsato dal commerciante.
+Il grossista ha risarcito il commerciante.
+Il commerciante ha risarcito il grossista.
+Il commerciante è stato compensato dal grossista.
+Il grossista è stato compensato dal commerciante.
+L' accusatore ha affrontato il vandale.
+Il vandale ha affrontato l' accusatore.
+Il vandale fu affrontato dall' accusatore.
+L' accusatore è stato affrontato dal vandale.
+Il querelante ha accostato il teppista.
+Il teppista ha accostato la querelante.
+Il teppista e'stato accostato dal querelante.
+Il querelante e'stato avvicinato dal teppista.
+Il truffatore ha sconcertato l' idiota.
+L' idiota ha confuso il truffatore.
+L' idiota era sconcertato dal truffatore.
+Il truffatore era sconcertato dall' idiota.
+Il truffatore ha sconcertato il pazzo.
+Lo sciocco ha sconcertato l' imbroglione.
+Il pazzo era sconcertato dal truffatore.
+Il truffatore era perplesso dal pazzo.
+Il manifestante ha citato il leader.
+Il leader ha citato il manifestante.
+Il leader è stato citato dal manifestante.
+Il manifestante è stato citato dal leader.
+L' attaccante ha citato il capo.
+Il capo ha citato lo scioperante.
+Il capo è stato citato dall' attaccante.
+L' attaccante è stato citato dal capo.
+Il postino ha respinto il tassista.
+Il tassista ha respinto l' impiegato postale.
+Il tassista fu respinto dal postino.
+Il postino fu respinto dal tassista.
+Il postino ha disgustato il tassista.
+Il tassista disgustò il postino.
+Il tassista era disgustato dal postino.
+Il postino era disgustato dal tassista.
+Il concorrente agitava il rivale.
+Il rivale agitava il concorrente.
+Il rivale era agitato dal concorrente.
+Il concorrente era agitato dal rivale.
+Il concorrente ha fatto impazzire l' avversario.
+L' avversario ha fatto agitare il concorrente.
+L' avversario era agitato dal concorrente.
+Il concorrente era agitato dall' avversario.
+L' agente ha avvisato le autorità.
+Le autorità hanno avvertito l' agente.
+L' agente ha avvisato le autorità.
+L' agente e'stato avvisato dalle autorità.
+Il vice ha avvisato i superiori.
+I superiori hanno avvisato il vice.
+I vertici sono stati avvisati dal vice.
+Il vice è stato avvisato dai vertici.
+Il colpevole ha tradito il cacciatore.
+Il cacciatore ha tradito il colpevole.
+Il cacciatore è stato tradito dal colpevole.
+Il colpevole è stato tradito dal cacciatore.
+Il botanico rispettava il partner.
+Il socio rispettava il botanico.
+Il suo partner era rispettato dal botanico.
+Il botanico era rispettato dal suo socio.
+Lo specialista della flora stimava il collaboratore.
+Il collaboratore stimava lo specialista di flora.
+Il collaboratore era stimato dallo specialista di flora.
+Lo specialista in flora era stimato dal collaboratore.
+Il pacifista placava il fanatico.
+Il fanatico placava il pacifista.
+Il fanatico fu placato dal pacifista.
+Il pacifista fu placato dal fanatico.
+L' amante della pace ha placato il fanatico.
+Il fanatico ha placato l' amante della pace.
+Il fanatico fu placato dall' amante della pace.
+L' amante della pace fu placato dal fanatico.
+Il mascalzone ha picchiato il protagonista.
+Il protagonista ha picchiato il mascalzone.
+Il protagonista è stato picchiato dal mascalzone.
+Il canaglia è stato picchiato dal protagonista.
+Il canaglia ha sconfitto il personaggio principale.
+Il personaggio principale ha sconfitto il canaglia.
+Il personaggio principale è stato sconfitto dal canaglia.
+Il canaglia è stato sconfitto dal personaggio principale.
+Il sociologo ha accettato l' offerta.
+L' offerta è stata accettata dal sociologo.
+L' offerta fu accettata dal sociologo.
+Il sociologo ha accettato l' offerta.
+Il fidanzato ha fatto il tacchino.
+Il tacchino ha fatto il culo al fidanzato.
+Il tacchino e'stato imbecillezzato dal fidanzato.
+Il ragazzo e'stato stuzzicato dal tacchino.
+L' assistente sociale ha fatto la domanda.
+La domanda è stata posta all' assistente sociale.
+La domanda e'stata posta dall' assistente sociale.
+L' assistente sociale si e'fatta una domanda.
+Il scavatore ha piegato il filo.
+Il filo ha piegato il cavatore di fossati.
+Il filo è stato piegato dal cavatore di fossati.
+Il cavatore di fossati era piegato dal filo.
+Il box-office ha venduto i biglietti.
+I biglietti hanno fatto il giro di cassa.
+I biglietti sono stati venduti dal box-office.
+Il botteghino è stato venduto dai biglietti.
+Lo zio ha appeso l' ornamento.
+L' ornamento ha appeso lo zio.
+L' ornamento è stato appeso dallo zio.
+Lo zio era appeso all' ornamento.
+L' assistente ha premuto il pulsante.
+Il bottone è stato premuto dall' assistente.
+Il pulsante è stato premuto dall' assistente.
+L' assistente ha premuto il pulsante.
+Il vagabondo ha rubato la collana.
+La collana ha rubato il bastardo.
+La collana è stata rubata dal barbone.
+Il vagabondo è stato rubato dalla collana.
+Il vasaio modellava l' argilla.
+L' argilla ha plasmato il vasaio.
+L' argilla era plasmata dal vasaio.
+Il vasaio era modellato dall' argilla.
+Il garante ha siglato il modulo.
+Il modulo iniziava il garante.
+Il modulo è stato siglato dal garante.
+Il garante era siglato dal modulo.
+Il patatino ha dimenticato l' ombrello.
+L' ombrello ha dimenticato la patata da divano.
+L' ombrello è stato dimenticato dal patatino.
+Il patatino è stato dimenticato dall' ombrello.
+Il groupie e'andato al concerto.
+Al concerto c' era il groupie.
+Al concerto c' era la fan del gruppo.
+Il gruppo era presente al concerto.
+L' hacker ha memorizzato la password.
+La password memorizzata dall' hacker.
+La password e'stata memorizzata dall' hacker.
+L' hacker ha memorizzato la password.
+Il marine ha fatto le valigie.
+La borsa ha fatto il marine.
+La borsa era stata imballata dal marine.
+Il marine era pieno di cose.
+Il consulente ha enfatizzato le regole.
+Le regole sottolineano il consulente.
+Le regole sono state enfatizzate dal consulente.
+Il consulente era stato enfatizzato dalle regole.
+La sarta ha stirato la camicia.
+La camicia ha stirato la sarsa.
+La camicia è stata stirata dalla sarsa.
+La sarta era stata stirata dalla camicia.
+Il pasticcere ha cosparso lo zucchero.
+Lo zucchero ha cosparso il pasticcere.
+Lo zucchero è stato cosparso dal pasticcere.
+Il pasticcere era cosparso di zucchero.
+L' elettore ha sigillato la busta.
+La busta ha sigillato l' elettore.
+La busta era sigillata dall' elettore.
+L' elettore era sigillato dalla busta.
+Il pescatore ha svuotato il cestino.
+Il bidone ha svuotato il pescatore.
+Il bidone della spazzatura è stato svuotato dal pescatore.
+Il pescatore è stato svuotato dal bidone della spazzatura.
+Il violoncellista ha ricevuto il premio.
+Il premio è stato assegnato al violoncellista.
+Il premio è stato ricevuto dal violoncellista.
+Il violoncellista è stato ricevuto dal premio.
+Il tirchio ha valutato il servizio.
+Il servizio lo ha classificato come un tirchio.
+Il servizio e'stato valutato dal tirchio.
+Il tirchio e'stato valutato dal servizio.
+La studentessa ha preso in prestito la chiave.
+La chiave l' ha presa in prestito alla studentessa.
+La chiave l' ha presa in prestito la studentessa.
+La scuola ha preso in prestito la chiave.
+Il verme delle libri recitava la poesia.
+La poesia recitava il verme delle libri.
+La poesia è stata recitata dal verme delle libri.
+Il verme delle libri è stato recitato dalla poesia.
+Il sub ha ricaricato la batteria.
+La batteria ha ricaricato il sub.
+La batteria è stata ricaricata dal sub.
+Il sub si è ricaricato con la batteria.
+Il giocatore di poker ha vinto la partita.
+Il giocatore di poker ha vinto.
+La partita è stata vinta dal giocatore di poker.
+Il giocatore di poker è stato vinto dalla partita.
+L' imitatore ha ridisegnato l' appartamento.
+L' appartamento ha ridisegnato l' imitatore.
+L' appartamento e'stato ristrutturato dall' imitatore.
+L' imitatore ha riarredato l' appartamento.
+Il vinificatore ha aperto la bottiglia.
+La bottiglia ha aperto il tappo del vinificatore.
+La bottiglia è stata aperta dal vinificatore.
+Il vinificatore era stato sbatto dalla bottiglia.
+La lavandera ha piegato i vestiti.
+I vestiti sono ripiegati dalla lavanderia.
+I vestiti sono stati ripiegati dalla lavandera.
+La lavandera era ripiegata dai vestiti.
+L' agente di viaggio ha fatto una fotocopia del passaporto.
+Il passaporto è una fotocopia dell' agente di viaggio.
+Il passaporto è stato fotocopiato dall' agente di viaggio.
+L' agente di viaggio ha fatto una fotocopia del passaporto.
+L' esternatore ha presentato la denuncia.
+La denuncia è stata presentata dall' esternatore.
+La denuncia è stata presentata dall' esternatore.
+L' esternatore è stato denunciato.
+Il timoniere ha caricato la pistola.
+La pistola caricava il minuteman.
+La pistola era carica dal minatore.
+Il minuto era caricato dalla pistola.
+Il librario ha calcolato il profitto.
+Il profitto è calcolato dal librario.
+Il profitto è stato calcolato dal librario.
+Il librario era calcolato dal profitto.
+Il conte ha ereditato il dipinto.
+Il dipinto è stato ereditato dal conte.
+Il dipinto è stato ereditato dal conte.
+Il Conte ha ereditato il dipinto.
+Il giardiniere ha cambiato la lampadina.
+La lampadina ha cambiato il giardiniere.
+La lampadina è stata cambiata dal giardiniere.
+Il giardiniere è stato cambiato dalla lampadina.
+Il marciante cantava l' inno.
+L' inno cantò il marciante.
+L' inno era cantato dal marciante.
+La marcia era cantata dall' inno.
+Il capitano ha aperto la porta.
+La porta ha aperto il ponte.
+La porta era aperta dal portiere.
+Il pontefice era sbloccato dalla porta.
+Il suprematista ha creato il fondo.
+Il fondo ha creato il supremacista.
+Il fondo e'stato creato dal suprematista.
+Il suprematista e'stato creato dal fondo.
+La babysitter ha innaffiato la pianta.
+La pianta ha innaffiato la babysitter.
+La pianta è stata annaffiata dalla babysitter.
+La babysitter era stata innaffiata dalla pianta.
+L' intervistato ha arrugginito la tuta.
+Il vestito ha arrugginito l' intervistato.
+Il vestito era arrugginito dall' intervistato.
+L' intervistato era arricciato dalla tuta.
+Il crittografo ha mandato la lettera.
+La lettera mandata dal crittografo.
+La lettera è stata inviata dal crittografo.
+Il crittografo è stato inviato per lettera.
+Il portinaio ha cancellato il messaggio.
+Il messaggio ha cancellato il cameriere.
+Il messaggio e'stato cancellato dal cameriere.
+Il portinaio e'stato cancellato dal messaggio.
+Il contraffattore ha spedito il pacco.
+Il pacco ha spedito il contraffattore.
+Il pacco e'stato spedito dal contraffattore.
+Il contraffattore e'stato spedito con il pacco.
+Il tossico ha fumato la pipa.
+La pipa fumava il crack.
+La pipa era fumata dal tossicodipendente.
+Il tossicodipendente era fumato dalla pipa.
+La manicurista ha rinviato l' appuntamento.
+L' appuntamento ha rinviato la manicure.
+L' appuntamento e'stato rimandato dalla manicurista.
+La manicurista e'stata rinviata per l' appuntamento.
+Il ciarlatano ha bruciato il contratto.
+Il contratto ha bruciato il ciarlatano.
+Il contratto è stato bruciato dal ciarlatano.
+Il ciarlatano fu bruciato dal contratto.
+Il conciatore ha ordinato.
+L' ordine ha piazzato il conciatore.
+L' ordine è stato fatto dal conciatore.
+Il conciatore è stato messo dall' ordine.
+L' archeologo ha annullato il viaggio.
+Il viaggio è stato annullato dall' archeologo.
+Il viaggio è stato annullato dall' archeologo.
+L' archeologo ha annullato il viaggio.
+Il francese ha tagliato la baguette.
+La baguette ha tagliato il francese.
+La baguette è stata tagliata dal francese.
+Il francese è stato tagliato dalla baguette.
+Il produttore ha scelto l' attrice.
+L' attrice ha scelto il produttore.
+L' attrice è stata scelta dal produttore.
+Il produttore è stato scelto dall' attrice.
+La babysitter punì i gemelli.
+I gemelli hanno punito la babysitter.
+I gemelli sono stati puniti dalla babysitter.
+La babysitter e'stata punita dai gemelli.
+L' esorcista ha sconfitto lo spirito.
+Lo spirito ha sconfitto l' esorcista.
+Lo spirito fu sconfitto dall' esorcista.
+L' esorcista è stato sconfitto dallo spirito.
+Il barbiere ha rasato il vecchio.
+Il vecchio ha rasato il barbiere.
+Il vecchio si è fatto rasare dal barbiere.
+Il barbiere si è fatto rasare dal vecchio.
+I paparazzi hanno inseguito la pop star.
+La pop star ha inseguito i paparazzi.
+La pop star era stata seguita dai paparazzi.
+I paparazzi sono stati seguiti dalla pop star.
+La bruna ha dato la mancia al cameriere.
+Il cameriere ha dato la mancia alla bruna.
+Il cameriere e'stato avvisato dalla bruna.
+La bruna ha ricevuto una mancia dal cameriere.
+Il coinquilino ha adottato il neonato.
+Il neonato ha adottato la sua compagna di stanza.
+Il neonato è stato adottato dalla sua coinquilina.
+Il coinquilino e'stato adottato dal neonato.
+Il cartografo ha disegnato l' unicicelista.
+Il monociclista ha disegnato il cartunista.
+Il monociclista è stato disegnato dal cartografo.
+Il cartografo è stato disegnato dall' unicicelista.
+Il marinai ha pagato meno del marinai.
+Il marinaio ha pagato poco al camminatore.
+Il marinaio era stato sottoccaricato dal camminatore.
+Il marinai ha pagato poco al camminatore.
+L' urologo ha curato il vedovo.
+Il vedovo ha curato l' urologo.
+Il vedovo è stato curato dall' urologo.
+L' urologo è stato curato dal vedovo.
+La giuria ha assolto l' economista.
+L' economista ha assolto la giuria.
+L' economista e'stato assolto dalla giuria.
+La giuria è stata assolta dall' economista.
+Il novellino ha eluso il bullo.
+Il bullo ha eluso il primo anno.
+Il bullo e'stato eluso dal primo anno.
+Il primo anno e'stato eluso dal bullo.
+La suora rimprovera l' edonista.
+L' edonista rimprovera la suora.
+L' edonista fu rimproverato dalla suora.
+La suora fu rimproverata dall' edonista.
+Il bibliotecario ammonì il plagiatore.
+Il plagiatore ammonì il bibliotecario.
+Il plagiatore è stato ammonito dal bibliotecario.
+Il bibliotecario è stato ammonito dal plagiatore.
+Il colonnello ha supervisionato il cadetto.
+Il cadetto sorvegliava il colonnello.
+Il cadetto era sotto la supervisione del colonnello.
+Il colonnello era sotto la supervisione del cadetto.
+L' abolizionista ha nascosto lo schiavo.
+Lo schiavo ha nascosto l' abolizionista.
+Lo schiavo era nascosto dall' abolizionista.
+L' abolizionista era nascosto dallo schiavo.
+L' allenatore personale ha pesato l' olimpica.
+L' olimpica ha pesato l' allenatore personale.
+L' olimpica era pesata dall' allenatore personale.
+L' allenatore personale era pesato dall' olimpica.
+L' addetto allo zoo ha dato da mangiare alla giraffa.
+La giraffa ha dato da mangiare allo zoo.
+La giraffa era stata nutrita dall' addetto allo zoo.
+L' attore dello zoo era stato nutrito dalla giraffa.
+La massaggiatrice ha rilassato il linebacker.
+Il linebacker ha rilassato la massaggiatrice.
+Il linebacker era rilassato dalla massaggiatrice.
+La massaggiatrice era rilassata dal linebacker.
+La pagina obbedì al nobile.
+Il nobile obbedì al segnale.
+Il nobile era obbedito dalla paglia.
+Il nobile obbedì alla pagella.
+Il leone inseguì la guida turistica.
+La guida ha inseguito il leone.
+La guida turistica è stata inseguita dal leone.
+Il leone è stato inseguito dalla guida turistica.
+Il custode ha fatto tacere l' orfano.
+L' orfano ha fatto tacere il custode.
+L' orfano fu calmato dal custode.
+Il custode fu calmato dall' orfano.
+Il tennista ringraziò il chiropratico.
+Il chiropratico ha ringraziato il tennista.
+Il chiropratico è stato ringraziato dal tennista.
+Il tennista è stato ringraziato dal chiropratico.
+L' esperimentatore ha reclutato il soggetto.
+Il soggetto ha reclutato l' esperimentatore.
+Il soggetto e'stato reclutato dall' esperimentatore.
+L' esperimentatore e'stato reclutato dal soggetto.
+La madre disciplinò il bambino.
+Il bambino disciplinò la madre.
+Il bambino era disciplinato dalla madre.
+La madre è stata disciplinata dal bambino.
+Il vice preside ha espulso il sociopatico.
+Il sociopatico ha espulso il vice preside.
+Il sociopatico e'stato espulso dal vice preside.
+Il vice preside e'stato espulso dal sociopatico.
+Il canalizatore ha sentito il fantasma.
+Il fantasma ha sentito il canalizatore.
+Il fantasma è stato rilevato dal canalizatore.
+Il canalizatore è stato rilevato dal fantasma.
+Il sindacato ha cacciato l' informatore.
+L' informatore ha cacciato il sindacato.
+L' informatore e'stato cacciato dal sindacato.
+Il sindacato e'stato cacciato dal denunciante.
+Il cacciatore ha intrappolato il cervo.
+Il cervo ha intrappolato il cacciatore.
+Il cervo è stato intrappolato dal cacciatore.
+Il cacciatore è stato intrappolato dal cervo.
+Il cardiologo ha screditato il ciarlatano.
+Il ciarlatano ha screditato il cardiologo.
+Il carognaio è stato screditato dal cardiologo.
+Il cardiologo è stato screditato dal ciarlatano.
+L' ufficiale giudiziario ha rilasciato il teppista.
+Il teppista ha rilasciato l' ufficiale giudiziario.
+Il teppista è stato rilasciato dall' ufficiale giudiziario.
+Il giudice esecutivo è stato rilasciato dal teppista.
+Lo squalo ha picchiato lo snorkeler.
+Lo snorkeler ha picchiato lo squalo.
+Lo snorkler e'stato picchiato dallo squalo.
+Lo squalo e'stato picchiato dallo snorkeler.
+Il presidente ha graziato il traditore.
+Il traditore ha graziato il presidente.
+Il traditore è stato graziato dal presidente.
+Il presidente è stato graziato dal traditore.
+L' assistente ha dato una sculacciata alla ragazza.
+La ragazza ha dato a calci all' au pair.
+La ragazza e'stata sculacciata dall' au pair.
+L' au pair e'stata sculacciata dalla ragazza.
+Il capo della televisione ha promosso il giornale.
+Il giornalista ha promosso il capo della stazione televisiva.
+Il venditore di giornali è stato promosso dal capo della stazione televisiva.
+Il capo della stazione televisiva è stato promosso dal giornale.
+La poliziotta ha ammanettato il colpevole.
+Il colpevole ha ammanettato la poliziotta.
+Il colpevole era ammanettato dalla poliziotta.
+La poliziotta era ammanettata dall' aggressore.
+L' antropologo ha studiato il membro della tribù.
+Il membro della tribù ha studiato l' antropologo.
+Il membro della tribù è stato studiato dall' antropologo.
+L' antropologo è stato studiato dal membro della tribù.
+Il capo della polizia ha premiato il pompiere.
+Il pompiere ha premiato il capo della polizia.
+Il pompiere è stato premiato dal capo della polizia.
+Il capo della polizia è stato premiato dal vigile del fuoco.
+Il malvagio ha rapito il beneficiario.
+Il beneficiario ha rapito il malvagio.
+Il beneficiario e'stato rapito dal malvagio.
+Il malvagio e'stato rapito dal beneficiario.
+L' assistente sociale ha confortato la donna.
+La donna aggredita ha confortato l' assistente sociale.
+La donna vittima di abusi è stata consolata dall' assistente sociale.
+L' assistente sociale fu consolato dalla donna vittima di abusi.
+Il neuroscienziato ha sopraffatto l' assistente di laboratorio.
+L' assistente di laboratorio ha sopraffatto il neuroscienziato.
+L' assistente di laboratorio era sopraffatto dal neuroscienziato.
+Il neuroscienziato era sopraffatto dall' assistente di laboratorio.
+Il guerrafondaio terrorizzò il fabbro.
+Il fabbro terrorizzava il guerrafondaio.
+Il fabbro di armi era terrorizzato dal guerrafondaio.
+Il guerrafondaio fu terrorizzato dal fabbro.
+Il direttore tollerò il violinista.
+Il violinista tollerò il direttore.
+Il violinista era tollerato dal direttore.
+Il direttore era tollerato dal violinista.
+Il lanciatore ha fatto segno al battitore.
+Il battitore ha fatto segno al lanciatore.
+Il lanciatore ha fatto segno al battitore.
+Il lanciatore ha fatto segno dal battitore.
+Il quarterback ha baciato la cheerleader.
+La cheerleader ha baciato il quarterback.
+La cheerleader e'stata baciata dal quarterback.
+Il quarterback e'stato baciato dalla cheerleader.
+Il camper ha spaventato l' orso.
+L' orso ha spaventato il camper.
+L' orso si spaventò per la camper.
+L' orso ha spaventato il camper.
+L' ammiraglio accompagnava il tenente.
+Il tenente accompagnava l' ammiraglio.
+Il tenente era accompagnato dall' ammiraglio.
+L' ammiraglio era accompagnato dal tenente.
+Il tenore amava il soprano.
+La soprano amava il tenore.
+Il tenore amava la soprano.
+Il tenore era amato dalla soprano.
+Il fotografo ha pagato l' avvocato.
+L' avvocato ha pagato il fotografo.
+L' avvocato era pagato dal fotografo.
+Il fotografo era pagato dall' avvocato.
+Il scapolo ha incuriosito la bionda.
+La bionda ha incuriosito il scapolo.
+La bionda era incuriosita dal scapolo.
+Il scapolo era incuriosito dalla bionda.
+Il giocatore di football ha inseguito la socialità.
+La personalità ha inseguito il giocatore di football.
+La personalità era inseguita dal giocatore di football.
+Il giocatore di football era inseguito dalla gente di classe.
+Il neurologo ha consultato il genetista.
+Il genetista ha consultato il neurologo.
+Il genetista è stato consultato dal neurologo.
+Il neurologo è stato consultato dal genetista.
+La fashionista ha umiliato la moda.
+La moda ha umiliato la fashionista.
+La moda è stata umiliata dalla fashionista.
+La fashionista è stata umiliata dalla moda.
+Il macellaio ha accusato il macellaio.
+Il macellaio ha accusato il macellaio.
+Il macellaio ha accusato il macellaio.
+Il macellaio è stato accusato dal imballatore.
+La nipote ha messo in imbarazzo la zia.
+La zia ha messo in imbarazzo la nipote.
+La zia era imbarazzata per la nipote.
+La nipote era imbarazzata dalla zia.
+Il signore della guerra ha salutato il mercenario.
+Il mercenario ha salutato il signore della guerra.
+Il mercenario fu accolto dal signore della guerra.
+Il signore della guerra fu salutato dal mercenario.
+Il vicino ha snobbato il nuovo arrivato.
+Il nuovo arrivato ha snobbato il vicino.
+Il nuovo arrivato è stato snobbato dal vicino.
+Il vicino è stato snobbato dal nuovo arrivato.
+L' editore ha sentito il revisore.
+Il revisore ha sentito l' editore.
+Il revisore è stato sentito dal redattore.
+Il redattore è stato sentito dal revisore.
+Il comunista ha offeso il capitalista.
+Il capitalista ha offeso il comunista.
+Il capitalista si è offeso con il comunista.
+Il comunista si è offeso con il capitalista.
+Il curatore ha informato male lo scultore.
+Lo scultore ha informato male il curatore.
+Lo scultore è stato mal informato dal curatore.
+Il curatore è stato male informato dallo scultore.
+Il fornaio ha parlato del mugnaio.
+Il muliniere ha parlato del fornaio.
+Il muliniere è stato menzionato dal fornaio.
+Il fornaio è stato menzionato dal mugnaio.
+Il sondaggiatore ha messo in imbarazzo lo statistico.
+Lo statistico ha messo in imbarazzo il sondaggiatore.
+Lo statistico è stato messo in imbarazzo dal sondaggiere.
+Il sondaggiere e'stato messo in imbarazzo dallo statistico.
+Lo sceneggiatore ha mandato una mail all' attore.
+L' attore ha mandato una mail allo sceneggiatore.
+L' attore ha ricevuto una mail dallo sceneggiatore.
+L' attore ha mandato una mail allo sceneggiatore.
+Il dermatologo ha contraddetto il patologo.
+Il patologo ha contraddetto il dermatologo.
+Il patologo e'stato contraddetto dal dermatologo.
+Il dermatologo e'stato contraddetto dal patologo.
+Il contadino ha ingannato il lavoratore del campo.
+Il lavoratore del campo ha ingannato il coltivatore.
+Il lavoratore del campo fu ingannato dal coltivatore.
+Il contadino fu ingannato dal lavoratore del campo.
+Il patriota ha salutato il veterano.
+Il veterano ha salutato il patriota.
+Il veterano è stato salutato dal patriota.
+Il patriota è stato salutato dal veterano.
+Il saldatore ha visitato il lattiere.
+Il lattiere ha visitato il saldatore.
+Il lattiere ha ricevuto una visita dal saldatore.
+Il saldatore ha ricevuto una visita dal lattiere.
+L' adolescente ha umiliato il genitore.
+Il genitore ha mortificato l' adolescente.
+Il genitore era umiliato dall' adolescente.
+L' adolescente fu umiliato dal genitore.
+Il surfista ha impressionato il nuotatore.
+Il nuotatore ha impressionato il surfista.
+Il nuotatore era impressionato dal surfista.
+Il surfista era impressionato dal nuotatore.
+Il miserabile si è messo contro la padrona di casa.
+La padrona di casa si è opposta all' avaro.
+La padrona di casa era antagonizzata dal avaro.
+Il miserabile era ostile alla padrona di casa.
+Il fantoccio ha sconvolto i lealisti.
+Il lealista ha sconvolto il fantoccio.
+Il lealista era sconvolto dal fantoccio.
+Il soldato di fanteria era sconvolto dai lealisti.
+Il fioraio ha fatturato il negozio.
+Il negoziante ha fatturato il fioraio.
+Il negoziante ha ricevuto la fattura dal fioraio.
+Il fiorista ha ricevuto la fattura dal negoziante.
+Il risarcitore ha molestato il rivenditore.
+Il rivenditore ha molestato il revisore dei danni.
+Il rivenditore e'stato molestato dal revisore dei danni.
+Il risarcitore è stato molestato dal rivenditore.
+L' ex moglie ha dato un pugno alla ragazza.
+La ragazza ha dato un pugno all' ex moglie.
+La ragazza e'stata colpita dall' ex moglie.
+L' ex moglie e'stata colpita dalla fidanzata.
+Il difensore ha incolpato il portiere.
+Il portiere ha incolpato il difensore.
+Il portiere è stato incolpato dal difensore.
+Il difensore è stato incolpato dal portiere.
+Il geologo rassicurò l' escavatore.
+L' escavatore rassicurò il geologo.
+L' escavatore fu rassicurato dal geologo.
+Il geologo fu rassicurato dall' escavatore.
+Il fisico ha tormentato il matematico.
+Il matematico ha tormentato il fisico.
+Il matematico era infastidito dal fisico.
+Il fisico era infastidito dal matematico.
+L' impiegato ha guardato il malversazione.
+Il malversazione ha guardato l' impiegato.
+Il malversazione era sorvegliato dall' impiegato.
+L' impiegato era sorvegliato dal malversazione.
+Il programmatore non si fidava del volontario.
+Il volontario non si fidava del programmatore.
+Il volontario era diffidente dal programmatore.
+Il volontario non si fidava del programmatore.
+L' intervistatore si e'fatto amico del presidente.
+Il presidente si e'fatto amico dell' intervistatore.
+Il presidente era amico dell' intervistatore.
+L' intervistatore era amico del presidente.
+Il direttore della fotografia ha preferito la star del cinema.
+La star preferisce il direttore della fotografia.
+La star del cinema era la favorita del direttore della fotografia.
+Il direttore della fotografia era favorito dalla star del cinema.
+Il giocatore di hockey ha aggravato il pattinatore.
+Il pattinatore ha aggravato il giocatore di hockey.
+Il pattinatore è stato aggravato dal giocatore di hockey.
+Il giocatore di hockey è stato aggravato dal pattinatore.
+Il muratore ha scandalizzato l' operatore della gru.
+L' operatore della gru ha scandalizzato il muratore.
+L' operatore della gru era indignato dal muratore.
+Il muratore si indignò per l' operaio della gru.
+Il candidato ha approvato il candidato.
+Il candidato ha approvato il candidato.
+Il candidato è stato approvato dal candidato.
+Il candidato e'stato approvato dal candidato.
+L' entomologo ha disprezzato il biologo.
+Il biologo ha disprezzato l' entomologo.
+Il biologo è stato denigrato dall' entomologo.
+L' entomologo è stato disprezzato dal biologo.
+L' ipocondriaco ha inseguito il medico.
+Il medico ha inseguito l' ipocondriaco.
+Il medico era inseguito dall' ipocondriaco.
+L' ipocondriaco era inseguito dal medico.
+Il farmacista sospettava il farmacista.
+Il farmacista sospettava il farmacista.
+Il farmacista era sospettato dal farmacista.
+Il farmacista sospettava il farmacista.
+Il legale ha implorato il cittadino.
+Il cittadino ha implorato il legale.
+Il cittadino è stato implorato dal legale.
+Il giudice è stato implorato dal cittadino.
+L' idraulico ha devastato il caposquadra.
+Il caposquadra ha distrutto l' idraulico.
+Il caposquadra era devastato dall' idraulico.
+L' idraulico e'stato devastato dal caposquadra.
+Il sergente ha identificato il cecchino.
+Il cecchino ha identificato il sergente.
+Il cecchino e'stato identificato dal sergente.
+Il sergente e'stato identificato dal cecchino.
