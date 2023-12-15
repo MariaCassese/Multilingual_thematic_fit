@@ -1,0 +1,51 @@
+Dataset EventsRev
+Errori traduzione dall'inglese all'italiano: 
+
+NLLB -600 M
+
+1) A volte anziché tradurre il present progressive con il passato prossimo, lo traduce con il presente
+ L'artista dipinge l'uomo d'affari;
+
+2) Non fa l'accordo tra articolo e sostantivo: 
+Il sposo porta la sposa;
+
+3) Inventa neologismi usando desinenze di nomi e verbi plausibili per l'italiano: 
+Il re sta divertendo l' scherzatore.
+La ballerina sta balando per il nonno
+
+4) Lascia il nome inglese se non sa come tradurlo: 
+Il chauffeur sta aprendo la porta alla signora
+
+5) Errori nella semantica: 
+In italiano non è molto comune usare l'espressione "Il sarto sta misurando la principessa"; Si direbbe invece "Il sarto sta prendendo le misure alla principessa". 
+
+NLLB 1.3B
+
+1) Anziché tradurre il present progressive con il passato prossimo, lo traduce con il presente
+ L'artista dipinge l'uomo d'affari; 
+La ragazza spaventa il fantasma;
+
+3) Inventa neologismi usando forme dei verbi plausibili per l'italiano (questa volta sembra spagnolo): 
+Il vampiro sta mordiendo la donna. 
+
+Helsinki-nlp
+
+1) Inventa neologismi usando forme dei verbi plausibili per l'italiano (questa volta sembra spagnolo): 
+La ragazza sta rapindo il pirata. 
+
+2) Cambia il modo di tradurre le due frasi:
+Il capo sta urlando contro il lavoratore;
+L'operaio sta urlando al capo;
+
+L'autista sta aprendo la porta alla signora; 
+La signora sta aprendo la porta per l'autista
+
+
+
+
+
+
+
+
+
+Errori traduzione dall'inglese al francese:
