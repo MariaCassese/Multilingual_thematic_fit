@@ -49,7 +49,7 @@ class Multilingual:
             return translated_text
         
         except KeyError:
-            return ""
+            return "Unsupported language or model"
     
         
 
