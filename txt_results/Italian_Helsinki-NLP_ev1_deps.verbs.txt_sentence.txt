@@ -1,0 +1,80 @@
+Il poliziotto sta arrestando il criminale.
+Il criminale sta arrestando il poliziotto.
+La babysitter sta rimproverando il bambino.
+Il bambino sta rimproverando la babysitter.
+Il medico sta usando uno stetoscopio sul paziente.
+Il paziente sta usando uno stetoscopio sul medico.
+Il pompiere sta salvando la nonna.
+La nonna sta salvando il pompiere.
+Il dentista sta curando il paziente.
+Il paziente sta curando il dentista.
+Il fantasma sta spaventando la ragazza.
+La ragazza sta spaventando il fantasma.
+La madre sta dando da mangiare al bambino.
+Il bambino sta dando da mangiare alla madre.
+L'artista sta dipingendo l'uomo d'affari.
+L'uomo d'affari sta dipingendo l'artista.
+Lo sposo sta portando la sposa.
+La sposa sta portando lo sposo.
+Il giullare sta intrattenendo il re.
+Il re sta intrattenendo il giullare.
+Il leone sta saltando sulla guida Safari.
+La guida Safari sta saltando sul leone.
+Il fotografo sta scattando una foto del modello.
+Il modello sta scattando una foto del fotografo.
+Il pirata sta rapindo la principessa.
+La principessa sta rapindo il pirata.
+Il sacerdote sta benedicendo la sposa.
+La sposa sta benedicendo il sacerdote.
+Lo squalo sta mordendo lo snorkeler.
+Lo snorkeler sta mordendo lo squalo.
+Il professore sta impartendo la lezione allo studente.
+Lo studente sta facendo lezione al professore.
+Il vampiro sta mordendo la donna.
+La donna sta mordendo il vampiro.
+Il cameriere sta servendo il cliente.
+Il cliente sta servendo il cameriere.
+L'avvocato sta dando soldi al mendicante.
+Il mendicante sta dando soldi all'avvocato.
+Lo chef sta cucinando per la signora.
+La signora sta cucinando per lo chef.
+La ballerina sta ballando per il nonno.
+Il nonno sta ballando per la ballerina.
+Il giornalista sta intervistando la star dello sport.
+La star dello sport sta intervistando il giornalista.
+Il giudice sta condannando il criminale.
+Il criminale sta condannando il giudice.
+Il padre sta tirando il bambino sulla slitta.
+Il bambino sta tirando il padre sulla slitta.
+Babbo Natale sta dando un regalo alla ragazza.
+La ragazza sta facendo un regalo a Babbo Natale.
+Il contadino si inchina alla regina.
+La regina si inchina al contadino.
+La signora applaude l'atleta.
+L'atleta sta applaudendo la signora.
+Il padre sta legando le scarpe del figlio.
+Il figlio sta legando le scarpe del padre.
+Il ladro sta rubando la borsa alla nonna.
+La nonna sta rubando la borsa al ladro.
+Il gatto sta inseguendo il topo.
+Il topo sta inseguendo il gatto.
+Il visitatore sta spingendo il paziente.
+Il paziente sta spingendo il visitatore.
+Il parente sta portando fiori al paziente.
+Il paziente sta portando fiori al parente.
+Il capo sta urlando contro il lavoratore.
+L'operaio sta urlando al capo.
+Il cane sta guidando la persona cieca.
+Il cieco sta guidando il cane.
+Il buttafuori impedisce alla donna di entrare.
+La donna sta impedendo al buttafuori di entrare.
+Il cane sta leccando la ragazza sul viso.
+La ragazza sta leccando il cane sul viso.
+L'uomo si propone alla donna.
+La donna si propone all'uomo.
+Il sarto sta misurando la principessa.
+La principessa sta misurando il sarto.
+Il bagnino sta salvando la nonna.
+La nonna sta salvando il bagnino.
+L'autista sta aprendo la porta alla signora.
+La signora sta aprendo la porta per l'autista.

@@ -1,0 +1,80 @@
+Le flic arrête le criminel.
+Le criminel arrête le flic.
+La baby-sitter fait des reproches à l' enfant.
+L' enfant réprimande la baby-sitter.
+Le docteur utilise un stéthoscope sur le patient.
+Le patient utilise un stéthoscope sur le médecin.
+Le pompier sauve la grand-mère.
+La grand-mère sauve le pompier.
+Le dentiste traite le patient.
+Le patient traite le dentiste.
+Le fantôme fait peur à la fille.
+La fille fait peur au fantôme.
+La mère nourrit le bébé.
+Le bébé nourrit sa mère.
+L' artiste peint l' homme d' affaires.
+L' homme d' affaires peint l' artiste.
+Le marié porte la mariée.
+La mariée porte le marié.
+Le drôle de jeu divertit le roi.
+Le roi divertit le blagueur.
+Le lion se jette sur le guide du safari.
+Le guide du safari s' est jeté sur le lion.
+Le photographe prend une photo du modèle.
+Le modèle prend une photo du photographe.
+Le pirate enlève la princesse.
+La princesse enlève le pirate.
+Le prêtre bénit la mariée.
+La mariée bénit le prêtre.
+Le requin mord le snorkeler.
+Le snorkeler mord le requin.
+Le professeur donne une conférence à l' étudiant.
+L' étudiant donne une conférence au professeur.
+Le vampire mord la femme.
+La femme mord le vampire.
+Le serveur sert le client.
+Le client sert le serveur.
+L' avocat donne de l' argent au mendiant.
+Le mendiant donne de l' argent à l' avocat.
+Le chef cuisine pour la dame.
+La dame cuisine pour le chef.
+La ballerine danse pour le grand-père.
+Le grand-père danse pour la ballerine.
+Le journaliste entrevoit la star du sport.
+La star du sport interroge le journaliste.
+Le juge condamne le criminel.
+Le criminel condamne le juge.
+Le père tire l' enfant sur le traîneau.
+L' enfant tire le père sur le traîneau.
+Le Père Noël fait un cadeau à la fille.
+La fille fait un cadeau au Père Noël.
+Le paysan se prosterne devant la reine.
+La reine se prosterne devant le paysan.
+La dame applaudit l' athlète.
+L' athlète applaudit la dame.
+Le père attache les chaussures de son fils.
+Le fils attache les chaussures du père.
+Le voleur vole la bourse de la grand-mère.
+La grand-mère vole le sac du voleur.
+Le chat poursuit la souris.
+La souris poursuit le chat.
+Le visiteur pousse le patient.
+Le patient pousse le visiteur.
+La parenté apporte des fleurs au patient.
+Le patient apporte des fleurs à sa parenté.
+Le patron crie contre le travailleur.
+Le travailleur crie au patron.
+Le chien conduit le aveugle.
+La personne aveugle conduit le chien.
+Le dépositaire empêche la femme d' entrer.
+La femme empêche le détenu d' entrer.
+Le chien léche la fille sur le visage.
+La fille léche le chien sur le visage.
+L' homme propose à la femme.
+La femme propose à l' homme.
+Le tailleur mesure la princesse.
+La princesse mesure le tailleur.
+Le sauveur sauve la grand-mère.
+La grand-mère sauve le sauveur.
+Le chauffeur ouvre la porte à la dame.
+La dame ouvre la porte au chauffeur.
