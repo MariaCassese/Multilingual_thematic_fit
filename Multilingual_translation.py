@@ -124,7 +124,7 @@ def main():
 
                     df_result = pd.DataFrame(result)
                     out_file_name = os.path.join(
-                        "txt_results",
+                        "results",
                         f"{language}_{model_name}_{os.path.basename(filename)}_sentence.txt"
                     )
                     df_result.to_csv(
@@ -159,7 +159,7 @@ def main():
 
                     df_result = pd.DataFrame(result)
                     out_file_name = os.path.join(
-                        "txt_results",
+                        "results",
                         f"{language}_{model_name}_{os.path.basename(filename)}_sentence.txt"
                     )
                     df_result.to_csv(
