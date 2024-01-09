@@ -30,7 +30,7 @@ Il vampiro sta mordiendo la donna.
 
 Helsinki-nlp
 
-1) Inventa neologismi usando forme dei verbi plausibili per l'italiano (questa volta sembra spagnolo): 
+1) Inventa neologismi usando forme dei verbi plausibili per l'italiano: 
 La ragazza sta rapindo il pirata. 
 
 2) Cambia il modo di tradurre le due frasi:
@@ -41,11 +41,151 @@ L'autista sta aprendo la porta alla signora;
 La signora sta aprendo la porta per l'autista
 
 
-
-
-
-
-
-
-
 Errori traduzione dall'inglese al francese:
+
+NLLB -600 M
+
+1)Anziché tradurre il present progressive con il présent continu (etre en train de ...), lo traduce con il presente
+Le flic arrête le criminel.
+
+2) Cambia il modo di tradurre le due frasi:
+La baby-sitter fait des reproches à l' enfant.
+L' enfant réprimande la baby-sitter.
+
+3) Sostituisce l'articolo determinativo con il possessivo:
+Le bébé nourrit sa mère.
+
+4) Sostituisce un nome animato (clown) con una locuzione nominale (drôle de jeu - gioco divertente) 
+Le drôle de jeu divertit le roi.
+
+5) Cambia il tempo verbale della frase (dal présent continu al passato)
+Le guide du safari s' est jeté sur le lion.
+
+6) Lascia il nome inglese se non sa come tradurlo: 
+Le requin mord le snorkeler.
+
+7) Sostituisce il nome singolare con il plurale:
+La parenté apporte des fleurs au patient.
+
+8) Traduce un sostantivo con uno compatibile con il contesto della frase, ma diverso da quello della frase
+Le sauveur sauve la grand-mère.
+
+NLLB 1.3B
+
+1) Anziché tradurre il present progressive con il présent continu (etre en train de ...), lo traduce con il presente
+
+2) Cambia il modo di tradurre le due frasi:
+Le lion attaque le guide.
+Le guide du safari se jette sur le lion.
+
+3) Usa il maschile invece del femminile
+Le photographe prend une photo du mannequin.
+
+4) Cambia la frase:
+Le père attache les lacets de ses chaussures.
+
+5) Sostituisce il nome singolare con il plurale:
+Le patient apporte des fleurs à la famille.
+
+
+Helsinki-nlp
+
+1) Anziché tradurre il present progressive con il présent continu (etre en train de ...), lo traduce con il presente
+
+2) Cambia il modo di tradurre le due frasi:
+Le fantôme fait peur à la fille.
+La fille effraie le fantôme.
+
+3) Cambia il tempo del verbo:
+Le jester est divertissant le roi.
+Le lion est sur le guide Safari.
+
+
+Le photographe prend une photo du modèle.
+
+5) Traduce un sostantivo con uno compatibile con il contesto della frase, ma diverso da quello della frase
+Le sauveteur sauve la grand-mère.
+
+
+Dataset EventsRev
+Errori traduzione dall'inglese al russo: 
+
+NLLB -600 M
+
+1) Traduce il verbo con la forma del perfettivo, che in russo viene utilizzato per il futuro
+Полицейский арестует преступника.
+
+2) Lascia il nome inglese e lo declina con i casi del russo:
+Преступник арестует копа. (cop - genitivo = copa)
+
+3) nella traduzione predilige parole più simili alla variante inglese, ma in russo non sono molto frequenti nell'uso: 
+doktor -- > come doctor; Доктор использует стетоскоп на пациенте; 
+
+4) sostituisce il paziente animato con un paziente inanimato che ha la stessa radice:
+Король развлекает шутка.
+
+5) Putevoditel' non è la guida turistica, ma la guida di viaggio (un libro):
+Лев бросается на путеводителя Сафари.
+
+6) Le forme dei verbi sono spesso sbagliate: sbaglia il tempo, l'aspetto o il prefisso. Questo perché in russo il significato di un verbo cambia cambiando il prefisso o l'aspetto. 
+
+7) Accordo della preposizione con il nome:
+Журналист ведет интервью с спортивной звездой. --> co sportivnoj svesdoj
+
+8) Accordo di genere e numero:
+Спортсменка ведет интервью с журналистом.
+
+NLLB 1.3B
+
+
+1) Sbaglia il tempo, l'aspetto o il prefisso del verbo:
+Жених носит невесту.
+Лев бросается на сафари-гида.
+
+2) Lascia il nome inglese e lo declina con i casi del russo:
+Акула кусает снорклера.
+
+3) Sbaglia a declinare il caso:
+Собака лижет девушке лицо.
+
+4) Il verbo "chiedere in moglie" viene tradotto come "proporre", donna come "moglie":
+Мужчина предлагает жене.
+
+
+Helsinki-nlp
+
+1) nella traduzione predilige parole più simili alla variante inglese, ma in russo non sono molto frequenti nell'uso:
+Дантист лечит пациента.
+
+2) Sbaglia il tempo, l'aspetto o il prefisso del verbo:
+Жених носит невесту.
+Лев набросился на гид Сафари.
+
+3) Nome sbagliato nella frase:
+Чудовище развлекает короля.(bestia invece di pagliaccio)
+Король развлекает шуток. (scherzo invece di pagliaccio)
+
+4) Lascia il nome inglese:
+Акула кусает снорклер.
+
+5) Sbaglia a declinare il caso:
+Студент читает лекции профессору.
+
+6) Verbo tradotto con un verbo che ha significato diverso
+Журналист опрашивает спортивную звезду.
+
+7) Accordo di genere e numero:
+Королева кланяется крестьянам.
+
+
+
+
+
+
+
+
+
+
+
+
+
